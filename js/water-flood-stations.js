@@ -63,23 +63,30 @@ var emptyStyle = new ol.style.Style({
     image: ''
 });
 
+var showOption = 'points';
+var pointStyle = function(f) {
+    var num = parseInt(f.get('result'));
+    if (f.get('unitOfMeasurement') != 'cm') {
+        return emptyStyle.clone();
+    } else if (num > 10) {
+        return pointRedStyle.clone();
+    } else if (num > 0) {
+        return pointYellowStyle.clone();
+    } else {
+        if (showOption === 'all') {
+            return pointGreenStyle.clone();
+        } else {
+            return null;
+        }
+    }
+}
+
 var vectorPoints = new ol.layer.Vector({
     source: new ol.source.Vector({
         url: 'data/iot_water.json',
         format: new ol.format.GeoJSON()
     }),
-    style: function(f) {
-        var num = parseInt(f.get('result'));
-        if (f.get('unitOfMeasurement') != 'cm') {
-            return emptyStyle.clone();
-        } else if (num > 10) {
-            return pointRedStyle.clone();
-        } else if (num > 0) {
-            return pointYellowStyle.clone();
-        } else {
-            return pointGreenStyle.clone();
-        }
-    }
+    style: pointStyle
 });
 
 var baseLayer = new ol.layer.Tile({
@@ -164,17 +171,42 @@ map.on('singleclick', function(evt) {
     $('#sidebar-main-block').html('');
     map.forEachFeatureAtPixel(evt.pixel, function(feature, layer) {
         var p = feature.getProperties();
+        var lonLat = ol.proj.toLonLat(p.geometry.getCoordinates());
         var message = '';
         if (p.stationName) {
             let timeUpdate = moment(p.phenomenonTime).tz('Asia/Taipei').format('YYYY-MM-DD HH:mm:ss');
-            message += '<h2>' + p.stationName + '</h2>';
+            message += '<h4>' + p.stationName + '</h4>';
             message += '<table class="table table-dark table-bordered">';
             message += '<tr><td>更新時間</td><td>' + timeUpdate + '</td></tr>';
             message += '<tr><td>管理單位</td><td>' + p.authority + '</td></tr>';
             message += '<tr><td>量測數值</td><td>' + p.result + ' ' + p.unitOfMeasurement + '</td></tr>';
+            message += '<tr><td colspan="2">';
+            message += '<div class="btn-group-vertical" role="group" style="width: 100%;">';
+            message += '<a href="https://www.google.com/maps/dir/?api=1&destination=' + lonLat[1] + ',' + lonLat[0] + '&travelmode=driving" target="_blank" class="btn btn-info btn-lg btn-block">Google 導航</a>';
+            message += '<a href="https://wego.here.com/directions/drive/mylocation/' + lonLat[1] + ',' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Here WeGo 導航</a>';
+            message += '<a href="https://bing.com/maps/default.aspx?rtp=~pos.' + lonLat[1] + '_' + lonLat[0] + '" target="_blank" class="btn btn-info btn-lg btn-block">Bing 導航</a>';
+            message += '</div></td></tr>';
             message += '</table>';
         }
         $('#sidebar-main-block').append(message);
         sidebar.open('home');
     });
+});
+
+$('#showPoints').click(function(e) {
+    e.preventDefault();
+    showOption = 'points';
+    vectorPoints.getSource().refresh();
+
+    $('a.btn-show').removeClass('btn-primary').addClass('btn-secondary');
+    $(this).removeClass('btn-secondary').addClass('btn-primary');
+});
+
+$('#showAll').click(function(e) {
+    e.preventDefault();
+    showOption = 'all';
+    vectorPoints.getSource().refresh();
+
+    $('a.btn-show').removeClass('btn-primary').addClass('btn-secondary');
+    $(this).removeClass('btn-secondary').addClass('btn-primary');
 });
