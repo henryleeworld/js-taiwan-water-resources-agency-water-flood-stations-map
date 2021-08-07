@@ -35,6 +35,14 @@ for (var i = 0; i < 21; ++i) {
     nlscMatrixIds[i] = i;
 }
 
+var pointDarkStyle = new ol.style.Style({
+    image: new ol.style.Circle({
+        radius: 10,
+        fill: new ol.style.Fill({
+            color: [12, 1, 53, 0.7]
+        })
+    })
+});
 var pointRedStyle = new ol.style.Style({
     image: new ol.style.Circle({
         radius: 10,
@@ -68,6 +76,8 @@ var pointStyle = function(f) {
     var num = parseInt(f.get('result'));
     if (f.get('unitOfMeasurement') != 'cm') {
         return emptyStyle.clone();
+    } else if (num > 49) {
+        return pointDarkStyle.clone();
     } else if (num > 10) {
         return pointRedStyle.clone();
     } else if (num > 0) {
@@ -175,7 +185,7 @@ map.on('singleclick', function(evt) {
         var message = '';
         if (p.stationName) {
             let timeUpdate = moment(p.phenomenonTime).tz('Asia/Taipei').format('YYYY-MM-DD HH:mm:ss');
-            message += '<h4>' + p.stationName + '</h4>';
+            message += '<h2>' + p.stationName + '</h2>';
             message += '<table class="table table-dark table-bordered">';
             message += '<tr><td>更新時間</td><td>' + timeUpdate + '</td></tr>';
             message += '<tr><td>管理單位</td><td>' + p.authority + '</td></tr>';
