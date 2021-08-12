@@ -11,8 +11,8 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/MTRacCf.png)
+![](https://i.imgur.com/Jn5Ew1z.png)
 > 豐水期又快又急的降雨，讓民眾生命財產飽受威脅；枯水期發生頻率增高，更讓中南部水庫拉警報
 
-![](https://i.imgur.com/XfTaeFQ.png)
+![](https://i.imgur.com/GwpKwz2.png)
 > 經濟部水利署（簡稱水利署）相關新聞
