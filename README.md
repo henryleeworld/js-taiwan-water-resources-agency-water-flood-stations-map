@@ -11,8 +11,8 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Jn5Ew1z.png)
+![](https://i.imgur.com/XjK3gh2.png)
 > 豐水期又快又急的降雨，讓民眾生命財產飽受威脅；枯水期發生頻率增高，更讓中南部水庫拉警報
 
-![](https://i.imgur.com/GwpKwz2.png)
-> 經濟部水利署（簡稱水利署）相關新聞
+![](https://i.imgur.com/Ur8QH8m.png)
+> 淹水的原因相當多也相當複雜，但主要還是可以分為水的來源及淹水的區域環境特性

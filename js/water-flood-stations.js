@@ -9,6 +9,7 @@ var size = ol.extent.getWidth(projectionExtent) / 256;
 var resolutions = new Array(20);
 var matrixIds = new Array(20);
 for (var z = 0; z < 20; ++z) {
+    // generate resolutions and matrixIds arrays for this WMTS
     resolutions[z] = size / Math.pow(2, z);
     matrixIds[z] = z;
 }
@@ -78,7 +79,7 @@ var pointStyle = function(f) {
         return emptyStyle.clone();
     } else if (num > 49) {
         return pointDarkStyle.clone();
-    } else if (num > 10) {
+    } else if (num > 9) {
         return pointRedStyle.clone();
     } else if (num > 0) {
         return pointYellowStyle.clone();
@@ -93,7 +94,7 @@ var pointStyle = function(f) {
 
 var vectorPoints = new ol.layer.Vector({
     source: new ol.source.Vector({
-        url: 'data/iot_water.json',
+        url: 'https://kiang.github.io/cit_water/docs/iot_water.json',
         format: new ol.format.GeoJSON()
     }),
     style: pointStyle
@@ -185,7 +186,7 @@ map.on('singleclick', function(evt) {
         var message = '';
         if (p.stationName) {
             let timeUpdate = moment(p.phenomenonTime).tz('Asia/Taipei').format('YYYY-MM-DD HH:mm:ss');
-            message += '<h2>' + p.stationName + '</h2>';
+            message += '<h5>' + p.stationName + '</h5>';
             message += '<table class="table table-dark table-bordered">';
             message += '<tr><td>更新時間</td><td>' + timeUpdate + '</td></tr>';
             message += '<tr><td>管理單位</td><td>' + p.authority + '</td></tr>';
@@ -219,4 +220,35 @@ $('#showAll').click(function(e) {
 
     $('a.btn-show').removeClass('btn-primary').addClass('btn-secondary');
     $(this).removeClass('btn-secondary').addClass('btn-primary');
+});
+
+$('#countPoints').click(function(e) {
+    e.preventDefault();
+    var counter = {
+        dark: 0,
+        red: 0,
+        yellow: 0,
+        all: 0
+    };
+    vectorPoints.getSource().forEachFeature(function(f) {
+        var num = parseInt(f.get('result'));
+        if (num > 49) {
+            counter.dark++;
+            counter.all++;
+        } else if (num > 9) {
+            counter.red++;
+            counter.all++;
+        } else if (num > 0) {
+            counter.yellow++;
+            counter.all++;
+        }
+    });
+    var message = '<table class="table table-dark">';
+    message += '<tbody>';
+    message += '<tr><th scope="row">深藍(>49cm)</th><td>' + counter.dark + '</td></tr>';
+    message += '<tr><th scope="row">紅(>9cm)</th><td>' + counter.red + '</td></tr>';
+    message += '<tr><th scope="row">黃(>0cm)</th><td>' + counter.yellow + '</td></tr>';
+    message += '<tr><th scope="row">合計</th><td>' + counter.all + '</td></tr>';
+    message += '</tbody></table>';
+    $('#countBlock').html(message);
 });
