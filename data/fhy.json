@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第五河川分署",
+                "stationID": "81fab8d8-e629-4272-b4d0-25feefc57246",
+                "stationName": "溪口溪北村溪口小柴林腳三仙宮(108Q001)",
+                "unitOfMeasurement": "cm",
+                "result": 19,
+                "phenomenonTime": "2024-08-10T07:03:10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3800086,
+                    23.5974588
+                ]
+            }
+        }
+    ]
 }
