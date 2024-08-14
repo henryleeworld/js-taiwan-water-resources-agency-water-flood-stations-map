@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第四河川分署",
+                "stationID": "f008a04c-ed41-470c-b0c9-2369c53bb369",
+                "stationName": "興霖路380巷",
+                "unitOfMeasurement": "cm",
+                "result": 17,
+                "phenomenonTime": "2024-08-14T15:00:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5238,
+                    23.9579
+                ]
+            }
+        }
+    ]
 }
