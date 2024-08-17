@@ -1,23 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第六河川分署",
-                "stationID": "ec40b5a3-f9af-499d-9243-a8574ec5d85c",
-                "stationName": "十二佃七寶塔旁(編號70)",
-                "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-08-16T20:00:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.177256,
-                    23.067526
-                ]
-            }
-        }
-    ]
+    "features": []
 }
