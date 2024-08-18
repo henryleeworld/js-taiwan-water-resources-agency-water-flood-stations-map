@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第四河川分署",
+                "stationID": "aeaa8305-497a-4d68-ae60-d87f04d44547",
+                "stationName": "下林排水",
+                "unitOfMeasurement": "cm",
+                "result": 11,
+                "phenomenonTime": "2024-08-18T16:00:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4077,
+                    24.0328
+                ]
+            }
+        }
+    ]
 }
