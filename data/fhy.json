@@ -5,11 +5,29 @@
             "type": "Feature",
             "properties": {
                 "authority": "第四河川分署",
-                "stationID": "aeaa8305-497a-4d68-ae60-d87f04d44547",
-                "stationName": "下林排水",
+                "stationID": "512cdf5d-6be1-46b3-a417-cd44e83b7b2b",
+                "stationName": "草湖郵局",
                 "unitOfMeasurement": "cm",
                 "result": 11,
-                "phenomenonTime": "2024-08-18T16:00:00"
+                "phenomenonTime": "2024-08-20T15:20:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3832,
+                    23.9583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第四河川分署",
+                "stationID": "f6c15639-45f5-4c6a-a15c-8e12f6b8aa14",
+                "stationName": "下林排水",
+                "unitOfMeasurement": "cm",
+                "result": 13,
+                "phenomenonTime": "2024-08-20T15:30:00"
             },
             "geometry": {
                 "type": "Point",
