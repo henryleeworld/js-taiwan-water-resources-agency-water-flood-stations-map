@@ -1,41 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "2ce4dcf3-e4fa-41d0-a278-21228d3ca431",
-                "stationName": "成泰路一段98巷",
-                "unitOfMeasurement": "cm",
-                "result": 41,
-                "phenomenonTime": "2024-08-20T16:38:04"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.451482,
-                    25.073858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第二河川分署",
-                "stationID": "cd1984ba-1d1d-4929-9f8a-dd95c53e0e0a",
-                "stationName": "",
-                "unitOfMeasurement": "cm",
-                "result": 10,
-                "phenomenonTime": "2024-08-20T16:30:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.282651,
-                    25.05492
-                ]
-            }
-        }
-    ]
+    "features": []
 }
