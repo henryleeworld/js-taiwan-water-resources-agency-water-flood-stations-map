@@ -1,4 +1,23 @@
 {
     "type": "FeatureCollection",
-    "features": []
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "經濟部水利署",
+                "stationID": "c609a8e9-8e8f-494f-b2be-656d08d8d18e",
+                "stationName": "國光路35號",
+                "unitOfMeasurement": "cm",
+                "result": 30,
+                "phenomenonTime": "2024-08-23T14:30:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518906,
+                    25.00837
+                ]
+            }
+        }
+    ]
 }
