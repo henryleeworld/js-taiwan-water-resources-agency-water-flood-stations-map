@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "8267d159-6900-468c-8017-2d45f5b1513e",
-                "stationName": "營埔一街淹水深度",
+                "authority": "第五河川分署",
+                "stationID": "4d9a9d84-0613-4c90-b4c2-3118fbf5af17",
+                "stationName": "竹崎鄉復金村竹崎分局復金派出所(108Q069)",
                 "unitOfMeasurement": "cm",
-                "result": 19,
-                "phenomenonTime": "2024-08-26T06:00:04"
+                "result": 13,
+                "phenomenonTime": "2024-08-29T15:43:11"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.560592,
-                    24.122955
+                    120.5702774,
+                    23.5260434
                 ]
             }
         }
