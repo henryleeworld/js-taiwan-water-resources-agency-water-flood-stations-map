@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第五河川分署",
-                "stationID": "4d9a9d84-0613-4c90-b4c2-3118fbf5af17",
-                "stationName": "竹崎鄉復金村竹崎分局復金派出所(108Q069)",
+                "stationID": "e4923d36-6195-401f-87c4-643f21f88c63",
+                "stationName": "灣橋村",
                 "unitOfMeasurement": "cm",
-                "result": 13,
-                "phenomenonTime": "2024-08-29T15:43:11"
+                "result": 19,
+                "phenomenonTime": "2024-08-29T16:02:52"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.5702774,
-                    23.5260434
+                    120.4983949,
+                    23.4945116
                 ]
             }
         }
