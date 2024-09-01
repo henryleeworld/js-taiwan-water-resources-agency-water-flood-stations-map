@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "973af6b7-839a-4fe5-884c-a847ff6f1add",
-                "stationName": "民雄交流道(107Q003)",
+                "authority": "第六河川分署",
+                "stationID": "20ccafd6-e365-4549-b92c-6a472087bb9a",
+                "stationName": "河東里西勢尾(109D001)",
                 "unitOfMeasurement": "cm",
-                "result": 13,
-                "phenomenonTime": "2024-08-29T16:33:01"
+                "result": 17,
+                "phenomenonTime": "2024-08-29T17:23:10"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.415942,
-                    23.553344
+                    120.415806,
+                    23.3409663
                 ]
             }
         }
