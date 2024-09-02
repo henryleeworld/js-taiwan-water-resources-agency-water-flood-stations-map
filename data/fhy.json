@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第六河川分署",
-                "stationID": "20ccafd6-e365-4549-b92c-6a472087bb9a",
-                "stationName": "河東里西勢尾(109D001)",
+                "stationID": "3d149ffa-53fe-4d3f-a043-54661e4eb176",
+                "stationName": "開元路地下道",
                 "unitOfMeasurement": "cm",
-                "result": 17,
-                "phenomenonTime": "2024-08-29T17:23:10"
+                "result": 11,
+                "phenomenonTime": "2024-08-29T18:05:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.415806,
-                    23.3409663
+                    120.325496,
+                    23.311447
                 ]
             }
         }
