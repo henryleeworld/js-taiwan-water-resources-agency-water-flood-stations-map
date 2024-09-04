@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第六河川分署",
-                "stationID": "3d149ffa-53fe-4d3f-a043-54661e4eb176",
-                "stationName": "開元路地下道",
+                "stationID": "31cc0033-4c48-4870-b9e3-113bc07427e2",
+                "stationName": "大成路348號旁(編號253)",
                 "unitOfMeasurement": "cm",
                 "result": 11,
-                "phenomenonTime": "2024-08-29T18:05:00"
+                "phenomenonTime": "2024-09-04T16:40:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.325496,
-                    23.311447
+                    120.297139,
+                    23.129639
                 ]
             }
         }
