@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第六河川分署",
-                "stationID": "31cc0033-4c48-4870-b9e3-113bc07427e2",
-                "stationName": "大成路348號旁(編號253)",
+                "stationID": "e0e831fb-c7a1-4c3b-9787-5558e1987222",
+                "stationName": "民安路二段德善一、二街口(113之1號前)(編號237)",
                 "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-09-04T16:40:00"
+                "result": 15,
+                "phenomenonTime": "2024-09-05T13:44:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.297139,
-                    23.129639
+                    120.255025,
+                    22.951607
                 ]
             }
         }
