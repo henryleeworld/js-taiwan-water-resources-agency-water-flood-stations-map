@@ -18,6 +18,42 @@
                     22.951607
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第六河川分署",
+                "stationID": "2598ee11-1568-4248-9f1e-2cc0394ddca7",
+                "stationName": "中山路三段12號(編號264)",
+                "unitOfMeasurement": "cm",
+                "result": 14,
+                "phenomenonTime": "2024-09-05T13:52:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287886,
+                    22.96754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第六河川分署",
+                "stationID": "6818fe78-f566-4414-90c3-9d3b0bdda401",
+                "stationName": "民安路二段與德糖路口(編號107)",
+                "unitOfMeasurement": "cm",
+                "result": 11,
+                "phenomenonTime": "2024-09-05T13:55:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.254571,
+                    22.951911
+                ]
+            }
         }
     ]
 }
