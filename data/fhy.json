@@ -22,18 +22,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第六河川分署",
-                "stationID": "2598ee11-1568-4248-9f1e-2cc0394ddca7",
-                "stationName": "中山路三段12號(編號264)",
+                "authority": "經濟部水利署",
+                "stationID": "bac501ab-81c0-4edd-91ec-4464a2a0683d",
+                "stationName": "永康區中山南路544巷口",
                 "unitOfMeasurement": "cm",
-                "result": 14,
-                "phenomenonTime": "2024-09-05T13:52:00"
+                "result": 28,
+                "phenomenonTime": "2024-09-05T13:56:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.287886,
-                    22.96754
+                    120.240778,
+                    23.018639
                 ]
             }
         },
@@ -41,17 +41,53 @@
             "type": "Feature",
             "properties": {
                 "authority": "第六河川分署",
-                "stationID": "6818fe78-f566-4414-90c3-9d3b0bdda401",
-                "stationName": "民安路二段與德糖路口(編號107)",
+                "stationID": "e5d611c3-6542-40b0-9fd0-552277ddd1b4",
+                "stationName": "蔦松里蔦松三街183號前(編號132)",
                 "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-09-05T13:55:03"
+                "result": 15,
+                "phenomenonTime": "2024-09-05T14:08:03"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.254571,
-                    22.951911
+                    120.258442,
+                    23.047985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第六河川分署",
+                "stationID": "4e41d500-59f7-4190-9aea-c00405ab6533",
+                "stationName": "自強路140巷18號前(編號137)",
+                "unitOfMeasurement": "cm",
+                "result": 18,
+                "phenomenonTime": "2024-09-05T14:08:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24858,
+                    23.0261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第六河川分署",
+                "stationID": "d0ea888f-63ec-4a02-b686-217083aeface",
+                "stationName": "蔦松三街147巷36號(編號240)",
+                "unitOfMeasurement": "cm",
+                "result": 11,
+                "phenomenonTime": "2024-09-05T14:15:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.257633,
+                    23.0489
                 ]
             }
         }
