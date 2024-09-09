@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第六河川分署",
-                "stationID": "4f1033ca-430e-42f1-9a99-75276d4a1bc3",
-                "stationName": "大成路348號旁(編號253)",
+                "authority": "第三河川分署",
+                "stationID": "fd8490ad-58e8-429f-8444-1884345970c3",
+                "stationName": "營埔一街淹水深度",
                 "unitOfMeasurement": "cm",
-                "result": 16,
-                "phenomenonTime": "2024-09-06T16:05:00"
+                "result": 32,
+                "phenomenonTime": "2024-09-07T17:28:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.297139,
-                    23.129639
+                    120.560592,
+                    24.122955
                 ]
             }
         }
