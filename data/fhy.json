@@ -8,7 +8,7 @@
                 "stationID": "1991fe83-ace7-4cce-b461-4704a21ab68d",
                 "stationName": "內三排水",
                 "unitOfMeasurement": "cm",
-                "result": 11,
+                "result": 28,
                 "phenomenonTime": "2024-09-09T16:10:00"
             },
             "geometry": {
@@ -16,6 +16,24 @@
                 "coordinates": [
                     120.5769,
                     23.8199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第四河川分署",
+                "stationID": "25649ece-2962-4ca7-a2cb-dc21129e4aad",
+                "stationName": "德安岩",
+                "unitOfMeasurement": "cm",
+                "result": 13,
+                "phenomenonTime": "2024-09-09T16:30:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6027,
+                    23.8532
                 ]
             }
         }
