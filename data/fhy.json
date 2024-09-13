@@ -4,36 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第四河川分署",
-                "stationID": "1991fe83-ace7-4cce-b461-4704a21ab68d",
-                "stationName": "內三排水",
+                "authority": "第五河川分署",
+                "stationID": "7c0890e7-0578-4deb-9e7a-e8f71f4a3570",
+                "stationName": "竹崎鄉復金村竹崎分局復金派出所(108Q069)",
                 "unitOfMeasurement": "cm",
-                "result": 28,
-                "phenomenonTime": "2024-09-09T16:10:00"
+                "result": 20,
+                "phenomenonTime": "2024-09-11T16:02:11"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.5769,
-                    23.8199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第四河川分署",
-                "stationID": "25649ece-2962-4ca7-a2cb-dc21129e4aad",
-                "stationName": "德安岩",
-                "unitOfMeasurement": "cm",
-                "result": 13,
-                "phenomenonTime": "2024-09-09T16:30:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.6027,
-                    23.8532
+                    120.5702774,
+                    23.5260434
                 ]
             }
         }
