@@ -4,18 +4,54 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第五河川分署",
-                "stationID": "7c0890e7-0578-4deb-9e7a-e8f71f4a3570",
-                "stationName": "竹崎鄉復金村竹崎分局復金派出所(108Q069)",
+                "authority": "第三河川分署",
+                "stationID": "4192621b-fa2c-4846-a47f-ecddc960a495",
+                "stationName": "進化路230之4號",
                 "unitOfMeasurement": "cm",
-                "result": 20,
-                "phenomenonTime": "2024-09-11T16:02:11"
+                "result": 18,
+                "phenomenonTime": "2024-09-11T17:53:03"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.5702774,
-                    23.5260434
+                    120.6945,
+                    24.1498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第三河川分署",
+                "stationID": "a6624a47-74d7-4bb2-b4cb-c9fc15f3ffeb",
+                "stationName": "和平街‧台中路口淹水深度",
+                "unitOfMeasurement": "cm",
+                "result": 12,
+                "phenomenonTime": "2024-09-11T17:53:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683629,
+                    24.133181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第三河川分署",
+                "stationID": "99522793-8478-405b-852d-25b6883f9a58",
+                "stationName": "精武路40巷與進德路口",
+                "unitOfMeasurement": "cm",
+                "result": 15,
+                "phenomenonTime": "2024-09-11T17:57:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692513,
+                    24.146274
                 ]
             }
         }
