@@ -4,36 +4,54 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "cc31b301-a35f-46fa-8aad-59d6f314207f",
-                "stationName": "大慶街二段98巷淹水深度",
+                "authority": "第五河川分署",
+                "stationID": "02e34a9c-d70d-4228-959f-3287bae47ddf",
+                "stationName": "台子村(108P052)",
                 "unitOfMeasurement": "cm",
-                "result": 16,
-                "phenomenonTime": "2024-09-14T12:54:04"
+                "result": 20,
+                "phenomenonTime": "2024-09-14T13:51:22"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.650722,
-                    24.117235
+                    120.143081,
+                    23.5602221
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "cefa4c95-2514-4e9b-9408-02ddc94ae85b",
-                "stationName": "樹義五巷19之1~6號淹水深度",
+                "authority": "第五河川分署",
+                "stationID": "dc7b076c-03bd-4d98-bb63-5f5631b92fbd",
+                "stationName": "守密街之電線桿_淹水深度",
                 "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-09-14T13:14:04"
+                "result": 12,
+                "phenomenonTime": "2024-09-14T14:07:21"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.655754,
-                    24.109236
+                    120.261658,
+                    23.665685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第五河川分署",
+                "stationID": "71dfdf50-ea31-4583-ac82-667de2cd3f98",
+                "stationName": "程海村_程海村社區活動中心",
+                "unitOfMeasurement": "cm",
+                "result": 20,
+                "phenomenonTime": "2024-09-14T14:07:22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233407,
+                    23.676201
                 ]
             }
         },
@@ -44,7 +62,7 @@
                 "stationID": "75812612-da08-47d5-bb80-a539d2665d51",
                 "stationName": "精武路40巷與進德路口",
                 "unitOfMeasurement": "cm",
-                "result": 18,
+                "result": 20,
                 "phenomenonTime": "2024-09-14T13:16:04"
             },
             "geometry": {
@@ -59,17 +77,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第三河川分署",
-                "stationID": "b32376d7-c778-41b6-aea8-2c01aa5395bc",
-                "stationName": "西區自由路一段75號(光明國中)",
+                "stationID": "37275d06-7ade-475d-ab7c-3715a1df9810",
+                "stationName": "中山路三段與富宜路交叉口淹水深度",
                 "unitOfMeasurement": "cm",
-                "result": 14,
-                "phenomenonTime": "2024-09-14T13:19:04"
+                "result": 25,
+                "phenomenonTime": "2024-09-14T13:37:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.67325,
-                    24.132042
+                    120.71868,
+                    24.14885
                 ]
             }
         },
@@ -77,17 +95,53 @@
             "type": "Feature",
             "properties": {
                 "authority": "第三河川分署",
-                "stationID": "2ab06d6f-3df6-443c-971c-3c16443a3d12",
-                "stationName": "三民路三段131巷8號前淹水深度",
+                "stationID": "e5e732c7-f240-431a-a418-044904ca5d50",
+                "stationName": "光明里大興三街",
                 "unitOfMeasurement": "cm",
-                "result": 14,
-                "phenomenonTime": "2024-09-14T13:19:04"
+                "result": 11,
+                "phenomenonTime": "2024-09-14T13:54:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.68404,
-                    24.151003
+                    120.730945,
+                    24.153068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第三河川分署",
+                "stationID": "26a0017b-c7f7-4fad-b67b-3b3c0d2931df",
+                "stationName": "進化路230之4號",
+                "unitOfMeasurement": "cm",
+                "result": 15,
+                "phenomenonTime": "2024-09-14T13:56:03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6945,
+                    24.1498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第三河川分署",
+                "stationID": "95c6d05d-808b-4e87-b4d4-ff6578bcadea",
+                "stationName": "綠川里綠川水岸景觀步道(地下道)",
+                "unitOfMeasurement": "cm",
+                "result": 17,
+                "phenomenonTime": "2024-09-14T13:56:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6839447,
+                    24.1385594
                 ]
             }
         }
