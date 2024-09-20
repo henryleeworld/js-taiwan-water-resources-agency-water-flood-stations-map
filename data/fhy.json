@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第二河川分署",
-                "stationID": "0561e122-71c1-4e00-9376-7ce6cfafc243",
-                "stationName": "中清路18巷57號",
+                "authority": "第六河川分署",
+                "stationID": "de4b01bd-81f4-41cc-9dc7-517842e67a5d",
+                "stationName": "河川街與河川街76巷",
                 "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-09-14T21:28:03"
+                "result": 25,
+                "phenomenonTime": "2024-09-20T03:00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.9369713,
-                    24.8385188
+                    120.28358,
+                    22.63585
                 ]
             }
         }
