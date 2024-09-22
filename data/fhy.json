@@ -5,35 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第六河川分署",
-                "stationID": "de4b01bd-81f4-41cc-9dc7-517842e67a5d",
-                "stationName": "河川街與河川街76巷",
+                "stationID": "84b3cf89-f29c-4055-bd12-8bd0cef7afcd",
+                "stationName": "瓦瑤子(編號142)",
                 "unitOfMeasurement": "cm",
-                "result": 29,
-                "phenomenonTime": "2024-09-20T03:00:00"
+                "result": 28,
+                "phenomenonTime": "2024-09-20T21:35:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.28358,
-                    22.63585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第六河川分署",
-                "stationID": "576b901f-ebcd-44f2-b742-44cd4502ee06",
-                "stationName": "中華路與凱旋路口",
-                "unitOfMeasurement": "cm",
-                "result": 18,
-                "phenomenonTime": "2024-09-20T03:05:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.309901,
-                    22.59365
+                    120.4173893,
+                    23.34327214
                 ]
             }
         }
