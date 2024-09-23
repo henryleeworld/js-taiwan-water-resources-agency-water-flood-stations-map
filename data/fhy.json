@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第六河川分署",
-                "stationID": "84b3cf89-f29c-4055-bd12-8bd0cef7afcd",
-                "stationName": "瓦瑤子(編號142)",
+                "stationID": "86605476-8def-4143-85d8-ec7cddac9c56",
+                "stationName": "和平路二段199巷",
                 "unitOfMeasurement": "cm",
-                "result": 28,
-                "phenomenonTime": "2024-09-20T21:35:00"
+                "result": 34,
+                "phenomenonTime": "2024-09-21T18:00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.4173893,
-                    23.34327214
+                    120.360056,
+                    22.722778
                 ]
             }
         }
