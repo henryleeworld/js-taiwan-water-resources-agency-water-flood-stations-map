@@ -4,18 +4,36 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第六河川分署",
-                "stationID": "86605476-8def-4143-85d8-ec7cddac9c56",
-                "stationName": "和平路二段199巷",
+                "authority": "經濟部水利署",
+                "stationID": "1cb37562-1eda-4908-b5cf-2f6358fe84ca",
+                "stationName": "仁愛街212巷24號",
                 "unitOfMeasurement": "cm",
                 "result": 34,
-                "phenomenonTime": "2024-09-21T18:00:00"
+                "phenomenonTime": "2024-09-22T19:45:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.360056,
-                    22.722778
+                    121.46403,
+                    25.09475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "經濟部水利署",
+                "stationID": "90223387-6cfb-4845-84d5-a3a2a5f66617",
+                "stationName": "南陽街車行地下道",
+                "unitOfMeasurement": "cm",
+                "result": 74,
+                "phenomenonTime": "2024-09-22T21:55:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62452,
+                    25.06632
                 ]
             }
         }
