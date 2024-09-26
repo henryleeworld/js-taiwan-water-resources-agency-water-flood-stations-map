@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第十河川分署",
-                "stationID": "334ad789-960e-40a0-a2f8-c583ab78cf27",
-                "stationName": "義一路114號(義一路信五路口)",
+                "authority": "第三河川分署",
+                "stationID": "1c0a9c58-ad40-4dcb-bccf-e45856accb97",
+                "stationName": "中96線華豐五街72號前岔路口淹水深度",
                 "unitOfMeasurement": "cm",
-                "result": 16,
-                "phenomenonTime": "2024-09-22T23:42:04"
+                "result": 11,
+                "phenomenonTime": "2024-09-23T18:17:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.74673,
-                    25.13452
+                    120.80483,
+                    24.21939
                 ]
             }
         }
