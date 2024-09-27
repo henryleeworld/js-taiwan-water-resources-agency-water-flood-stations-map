@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "1c0a9c58-ad40-4dcb-bccf-e45856accb97",
-                "stationName": "中96線華豐五街72號前岔路口淹水深度",
+                "authority": "第一河川分署",
+                "stationID": "1369ae37-e127-4121-a24a-89c81c78a144",
+                "stationName": "利澤西路27巷",
                 "unitOfMeasurement": "cm",
                 "result": 11,
-                "phenomenonTime": "2024-09-23T18:17:04"
+                "phenomenonTime": "2024-09-24T16:05:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.80483,
-                    24.21939
+                    121.8164921,
+                    24.6567438
                 ]
             }
         }
