@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第一河川分署",
-                "stationID": "1369ae37-e127-4121-a24a-89c81c78a144",
-                "stationName": "利澤西路27巷",
+                "authority": "第十河川分署",
+                "stationID": "0429d2e1-dbe6-4529-aeec-c9994f77cb3c",
+                "stationName": "文化路34號",
                 "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-09-24T16:05:04"
+                "result": 22,
+                "phenomenonTime": "2024-09-26T09:06:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.8164921,
-                    24.6567438
+                    121.736555,
+                    25.151875
                 ]
             }
         }
