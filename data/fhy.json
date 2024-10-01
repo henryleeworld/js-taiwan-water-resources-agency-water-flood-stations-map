@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第九河川分署",
-                "stationID": "ebf41095-212c-4718-9ffd-cc3d1ed151ae",
-                "stationName": "文化一街(鐵路下涵洞)",
+                "stationID": "df028268-bc70-4110-ad88-703ae453dc7e",
+                "stationName": "042024058210509",
                 "unitOfMeasurement": "cm",
-                "result": 13,
-                "phenomenonTime": "2024-09-30T06:57:31"
+                "result": 0,
+                "phenomenonTime": "2024-09-30T16:28:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.583887,
-                    23.968704
+                    121.349538,
+                    23.460497
                 ]
             }
         }
