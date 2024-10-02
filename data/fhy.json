@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第九河川分署",
-                "stationID": "df028268-bc70-4110-ad88-703ae453dc7e",
-                "stationName": "042024058210509",
+                "authority": "第八河川分署",
+                "stationID": "f82f458e-928c-412e-8194-8bdd6860579d",
+                "stationName": "072024058210718",
                 "unitOfMeasurement": "cm",
                 "result": 0,
-                "phenomenonTime": "2024-09-30T16:28:00"
+                "phenomenonTime": "2024-09-30T17:23:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.349538,
-                    23.460497
+                    121.400005518336,
+                    23.1557704636778
                 ]
             }
         }
