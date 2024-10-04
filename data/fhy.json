@@ -4,18 +4,54 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第八河川分署",
-                "stationID": "d7dff002-21f7-4fa8-b33f-9b3deeb32136",
-                "stationName": "042024058213240",
+                "authority": "第九河川分署",
+                "stationID": "2a5e646c-6c48-4ca8-954a-6e835eeb4954",
+                "stationName": "042024058224157",
                 "unitOfMeasurement": "cm",
                 "result": 0,
-                "phenomenonTime": "2024-09-30T23:48:00"
+                "phenomenonTime": "2024-10-02T16:47:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.420978,
-                    23.263032
+                    121.3040104,
+                    23.2717142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第十河川分署",
+                "stationID": "dfa43e6f-e427-4a6e-953a-2c4bcd444e03",
+                "stationName": "072024058225810",
+                "unitOfMeasurement": "cm",
+                "result": 0,
+                "phenomenonTime": "2024-10-02T21:49:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.766834319146,
+                    25.1327876772229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第十河川分署",
+                "stationID": "c6f12048-8bb3-411f-b461-4e4e5805b344",
+                "stationName": "",
+                "unitOfMeasurement": "cm",
+                "result": null,
+                "phenomenonTime": "2024-10-02T22:20:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.818684,
+                    25.10808
                 ]
             }
         }
