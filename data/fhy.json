@@ -5,89 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第十河川分署",
-                "stationID": "be3939b5-22b4-43e0-a558-1845396df408",
-                "stationName": "112024057007382",
+                "stationID": "8cb59b2f-972b-43d1-af55-4a84a12e1866",
+                "stationName": "112024057024878",
                 "unitOfMeasurement": "cm",
                 "result": 0,
-                "phenomenonTime": "2024-10-04T14:52:00"
+                "phenomenonTime": "2024-10-05T06:41:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.61404,
-                    25.22403
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "09307383-8011-4c08-b73d-0db7e5d39a53",
-                "stationName": "112024057009585",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-04T15:20:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.64785,
-                    25.18512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "2654adc5-f89b-45e9-a187-286bec23dce2",
-                "stationName": "112024057013865",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-04T16:06:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.50202,
-                    25.2089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "87f0da88-39a3-420d-97fa-576cb1505f74",
-                "stationName": "112024057011182",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-04T16:23:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.61278,
-                    25.22589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "4e1b4cae-cd5a-43ae-8e67-0cb14785eebf",
-                "stationName": "112024057013090",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-04T16:51:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.62545,
-                    25.23192
+                    121.5146,
+                    25.24639
                 ]
             }
         }
