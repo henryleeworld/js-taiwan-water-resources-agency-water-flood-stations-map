@@ -127,7 +127,7 @@ var baseLayer = new ol.layer.Tile({
 
 
 var appView = new ol.View({
-    center: ol.proj.fromLonLat([120.20345985889435, 22.994906062625773]),
+    center: ol.proj.fromLonLat([121.564101, 25.033493]),
     zoom: 14
 });
 
