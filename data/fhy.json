@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "602534a5-fa51-4c2b-94ba-7adbf9a8c383",
-                "stationName": "東港派出所",
+                "authority": "第十河川分署",
+                "stationID": "2dfa663d-afad-4cdb-a839-fddc20ebc780",
+                "stationName": "042024058390533",
                 "unitOfMeasurement": "cm",
-                "result": 19,
-                "phenomenonTime": "2024-10-09T14:58:41"
+                "result": 0,
+                "phenomenonTime": "2024-10-24T09:28:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.46308,
-                    22.46569
+                    121.781644,
+                    25.12449
                 ]
             }
         }
