@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第十河川分署",
-                "stationID": "2dfa663d-afad-4cdb-a839-fddc20ebc780",
-                "stationName": "042024058390533",
+                "stationID": "336e02a5-0d16-4699-b90b-87b5f01758b2",
+                "stationName": "042024058391825",
                 "unitOfMeasurement": "cm",
                 "result": 0,
-                "phenomenonTime": "2024-10-24T09:28:00"
+                "phenomenonTime": "2024-10-24T12:51:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.781644,
-                    25.12449
+                    121.739986,
+                    25.113088
                 ]
             }
         }
