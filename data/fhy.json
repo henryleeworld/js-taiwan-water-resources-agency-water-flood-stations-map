@@ -4,18 +4,108 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第十河川分署",
-                "stationID": "336e02a5-0d16-4699-b90b-87b5f01758b2",
-                "stationName": "042024058391825",
+                "authority": "第一河川分署",
+                "stationID": "6bf0e3a1-f8d3-4153-ade6-9c858c96fc45",
+                "stationName": "",
                 "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-24T12:51:00"
+                "result": null,
+                "phenomenonTime": "2024-10-24T15:00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.739986,
-                    25.113088
+                    121.77139840544504,
+                    24.718929281576674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "cd1d5479-1a88-4e16-b210-3ac39e3f6d83",
+                "stationName": "三堵三路",
+                "unitOfMeasurement": "cm",
+                "result": 28,
+                "phenomenonTime": "2024-10-24T15:44:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.804284,
+                    24.6569857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "2f1fd66a-31c4-4e25-9174-6235bbe5b724",
+                "stationName": "富農路三段240巷",
+                "unitOfMeasurement": "cm",
+                "result": 15,
+                "phenomenonTime": "2024-10-24T18:30:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800379,
+                    24.6697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "173d95d4-3b2c-472e-b180-bd4310de2858",
+                "stationName": "五福橋",
+                "unitOfMeasurement": "cm",
+                "result": 34,
+                "phenomenonTime": "2024-10-24T19:29:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8191388,
+                    24.6610428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "c10c41c1-fb23-4389-af55-95cd2910ebe2",
+                "stationName": "永美路二段142巷與古亭排水附近",
+                "unitOfMeasurement": "cm",
+                "result": 14,
+                "phenomenonTime": "2024-10-24T20:32:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8004716,
+                    24.7817199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "15e82261-b081-43df-bfde-fa572c69d219",
+                "stationName": "新群北路",
+                "unitOfMeasurement": "cm",
+                "result": 13,
+                "phenomenonTime": "2024-10-25T07:58:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.799699,
+                    24.676189
                 ]
             }
         }
