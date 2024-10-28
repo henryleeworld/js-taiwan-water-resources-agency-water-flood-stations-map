@@ -62,7 +62,7 @@
                 "stationID": "173d95d4-3b2c-472e-b180-bd4310de2858",
                 "stationName": "五福橋",
                 "unitOfMeasurement": "cm",
-                "result": 34,
+                "result": 35,
                 "phenomenonTime": "2024-10-24T19:29:00"
             },
             "geometry": {
@@ -98,7 +98,7 @@
                 "stationID": "15e82261-b081-43df-bfde-fa572c69d219",
                 "stationName": "新群北路",
                 "unitOfMeasurement": "cm",
-                "result": 13,
+                "result": 23,
                 "phenomenonTime": "2024-10-25T07:58:04"
             },
             "geometry": {
