@@ -5,24 +5,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第一河川分署",
-                "stationID": "6bf0e3a1-f8d3-4153-ade6-9c858c96fc45",
-                "stationName": "",
-                "unitOfMeasurement": "cm",
-                "result": null,
-                "phenomenonTime": "2024-10-24T15:00:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.77139840544504,
-                    24.718929281576674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第一河川分署",
                 "stationID": "cd1d5479-1a88-4e16-b210-3ac39e3f6d83",
                 "stationName": "三堵三路",
                 "unitOfMeasurement": "cm",
@@ -52,24 +34,6 @@
                 "coordinates": [
                     121.8191388,
                     24.6610428
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第一河川分署",
-                "stationID": "c10c41c1-fb23-4389-af55-95cd2910ebe2",
-                "stationName": "永美路二段142巷與古亭排水附近",
-                "unitOfMeasurement": "cm",
-                "result": 14,
-                "phenomenonTime": "2024-10-24T20:32:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.8004716,
-                    24.7817199
                 ]
             }
         }
