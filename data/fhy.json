@@ -4,36 +4,36 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第一河川分署",
-                "stationID": "cd1d5479-1a88-4e16-b210-3ac39e3f6d83",
-                "stationName": "三堵三路",
+                "authority": "第九河川分署",
+                "stationID": "962c7627-1407-4e7e-aeca-bdfb0381afd4",
+                "stationName": "中城里市區民宅70號",
                 "unitOfMeasurement": "cm",
-                "result": 29,
-                "phenomenonTime": "2024-10-24T15:44:00"
+                "result": 12,
+                "phenomenonTime": "2024-10-31T05:05:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.804284,
-                    24.6569857
+                    121.32624,
+                    23.32285
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "authority": "第一河川分署",
-                "stationID": "173d95d4-3b2c-472e-b180-bd4310de2858",
-                "stationName": "五福橋",
+                "authority": "第二河川分署",
+                "stationID": "5ca5bedb-7353-4bb8-8955-3be05489b443",
+                "stationName": "國際路一段960號",
                 "unitOfMeasurement": "cm",
-                "result": 36,
-                "phenomenonTime": "2024-10-24T19:29:00"
+                "result": 15,
+                "phenomenonTime": "2024-10-31T05:10:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.8191388,
-                    24.6610428
+                    121.28618,
+                    24.98371
                 ]
             }
         }
