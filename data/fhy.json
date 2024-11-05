@@ -8,7 +8,7 @@
                 "stationID": "1b6872c2-acab-4157-bfce-d2837d724fba",
                 "stationName": "溪洲排水左岸處",
                 "unitOfMeasurement": "cm",
-                "result": 178,
+                "result": 203,
                 "phenomenonTime": "2024-10-31T04:33:04"
             },
             "geometry": {
@@ -62,7 +62,7 @@
                 "stationID": "c85ba4a5-4670-40a9-a146-cdca4214ef2d",
                 "stationName": "冬山路三段320巷鐵路箱涵",
                 "unitOfMeasurement": "cm",
-                "result": 36,
+                "result": 73,
                 "phenomenonTime": "2024-10-31T11:33:04"
             },
             "geometry": {
@@ -124,24 +124,6 @@
                 "coordinates": [
                     121.76877,
                     24.718793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "a24f197a-4b44-41c3-a008-442b9e5080f3",
-                "stationName": "042024058444242",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-31T13:17:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.812593,
-                    24.654945
                 ]
             }
         },
@@ -224,7 +206,7 @@
                 "stationID": "a2c701a8-24f9-4589-81f3-dddb3c1f439d",
                 "stationName": "利澤西路27巷",
                 "unitOfMeasurement": "cm",
-                "result": 21,
+                "result": 38,
                 "phenomenonTime": "2024-10-31T15:19:04"
             },
             "geometry": {
@@ -242,7 +224,7 @@
                 "stationID": "aedf7a73-6fab-4064-8411-70a409a5787f",
                 "stationName": "茄苳路",
                 "unitOfMeasurement": "cm",
-                "result": 30,
+                "result": 54,
                 "phenomenonTime": "2024-10-31T15:55:04"
             },
             "geometry": {
@@ -256,29 +238,11 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "a397842c-fd30-4986-b813-4cea8ad19bf9",
-                "stationName": "042024058446705",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-31T15:56:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.6612282,
-                    24.74199237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "authority": "第一河川分署",
                 "stationID": "9e63c015-7499-431c-8f78-23d183cde024",
                 "stationName": "大吉一路",
                 "unitOfMeasurement": "cm",
-                "result": 28,
+                "result": 51,
                 "phenomenonTime": "2024-10-31T16:16:04"
             },
             "geometry": {
@@ -314,7 +278,7 @@
                 "stationID": "aa013b80-25bc-4168-925a-2418104e8e74",
                 "stationName": "大吉五路270巷",
                 "unitOfMeasurement": "cm",
-                "result": 26,
+                "result": 49,
                 "phenomenonTime": "2024-10-31T16:35:04"
             },
             "geometry": {
@@ -368,7 +332,7 @@
                 "stationID": "f02a3a0d-3938-4e2c-83ae-2b13989490d9",
                 "stationName": "五十二甲橋附近",
                 "unitOfMeasurement": "cm",
-                "result": 14,
+                "result": 33,
                 "phenomenonTime": "2024-10-31T17:54:04"
             },
             "geometry": {
@@ -422,7 +386,7 @@
                 "stationID": "f5b7cf3d-360c-4999-8811-edf4d0597a00",
                 "stationName": "中興三路",
                 "unitOfMeasurement": "cm",
-                "result": 14,
+                "result": 21,
                 "phenomenonTime": "2024-10-31T18:26:04"
             },
             "geometry": {
@@ -440,7 +404,7 @@
                 "stationID": "29ca227b-ad03-4d83-a55d-9e5eaf921a53",
                 "stationName": "大興路",
                 "unitOfMeasurement": "cm",
-                "result": 16,
+                "result": 55,
                 "phenomenonTime": "2024-10-31T18:37:04"
             },
             "geometry": {
@@ -448,6 +412,96 @@
                 "coordinates": [
                     121.781565,
                     24.690399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "7917388b-2d5f-45b3-b388-c9a1b45d0439",
+                "stationName": "幸福六路與珍珠二路口",
+                "unitOfMeasurement": "cm",
+                "result": 33,
+                "phenomenonTime": "2024-10-31T19:33:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7940413,
+                    24.6505389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "d129ed5f-97a9-47c8-9bc1-2803c8f24724",
+                "stationName": "縣民大道二段315巷",
+                "unitOfMeasurement": "cm",
+                "result": 17,
+                "phenomenonTime": "2024-10-31T20:14:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7737767,
+                    24.7374885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "8e479248-3321-4acb-a959-1baf7f40de10",
+                "stationName": "042024058452462",
+                "unitOfMeasurement": "cm",
+                "result": 0,
+                "phenomenonTime": "2024-10-31T20:29:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761583,
+                    24.751479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "0a062099-9222-4df8-9245-82309f92a3ca",
+                "stationName": "五福橋",
+                "unitOfMeasurement": "cm",
+                "result": 14,
+                "phenomenonTime": "2024-10-31T20:53:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8191388,
+                    24.6610428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "bef62c02-7706-416d-a832-1fb7412d21d8",
+                "stationName": "三堵三路",
+                "unitOfMeasurement": "cm",
+                "result": 15,
+                "phenomenonTime": "2024-10-31T21:16:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.804284,
+                    24.6569857
                 ]
             }
         },
@@ -466,42 +520,6 @@
                 "coordinates": [
                     121.21661409133256,
                     23.1265649326278
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第九河川分署",
-                "stationID": "ed3c564d-ea09-42ce-a63d-fc58d533536b",
-                "stationName": "大禹火車站",
-                "unitOfMeasurement": "cm",
-                "result": 63,
-                "phenomenonTime": "2024-10-31T07:42:04"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.326056,
-                    23.379389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第九河川分署",
-                "stationID": "8bcb08ae-50b5-4626-b6e0-563f343fb4cc",
-                "stationName": "共和村退輔會農場旁水尺",
-                "unitOfMeasurement": "cm",
-                "result": 50,
-                "phenomenonTime": "2024-10-31T08:12:04"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.51474,
-                    23.87166
                 ]
             }
         },
@@ -689,24 +707,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第九河川分署",
-                "stationID": "1ff6fc2e-e3b0-4799-9e3e-6009ce509cd7",
-                "stationName": "042024058443308",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-31T12:03:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.347168,
-                    23.457253
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第九河川分署",
                 "stationID": "7b0eaa2b-6afe-4cea-a7ab-d7264a2228e0",
                 "stationName": "042024058444416",
                 "unitOfMeasurement": "cm",
@@ -718,24 +718,6 @@
                 "coordinates": [
                     121.367438,
                     23.585235
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第九河川分署",
-                "stationID": "d2c0e04c-98d2-4afe-8d58-aa69fd9e824f",
-                "stationName": "042024058446059",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-31T15:17:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4073472,
-                    23.5156124
                 ]
             }
         },
@@ -808,42 +790,6 @@
                 "coordinates": [
                     121.38042849607687,
                     23.580917264680053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "40c9e5d2-8dc4-41aa-a4d8-a025b791d681",
-                "stationName": "072024058442251",
-                "unitOfMeasurement": "cm",
-                "result": 10,
-                "phenomenonTime": "2024-10-31T10:38:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.720973559336,
-                    25.1210152171812
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第十河川分署",
-                "stationID": "e512dc59-eeab-4b3a-aa66-f5d398f16aea",
-                "stationName": "042024058445928",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-31T15:14:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.79889428796037,
-                    25.131471322749633
                 ]
             }
         }
