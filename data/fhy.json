@@ -206,7 +206,7 @@
                 "stationID": "a2c701a8-24f9-4589-81f3-dddb3c1f439d",
                 "stationName": "利澤西路27巷",
                 "unitOfMeasurement": "cm",
-                "result": 42,
+                "result": 43,
                 "phenomenonTime": "2024-10-31T15:19:04"
             },
             "geometry": {
@@ -332,7 +332,7 @@
                 "stationID": "f02a3a0d-3938-4e2c-83ae-2b13989490d9",
                 "stationName": "五十二甲橋附近",
                 "unitOfMeasurement": "cm",
-                "result": 36,
+                "result": 38,
                 "phenomenonTime": "2024-10-31T17:54:04"
             },
             "geometry": {
@@ -430,24 +430,6 @@
                 "coordinates": [
                     121.7940413,
                     24.6505389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第一河川分署",
-                "stationID": "d129ed5f-97a9-47c8-9bc1-2803c8f24724",
-                "stationName": "縣民大道二段315巷",
-                "unitOfMeasurement": "cm",
-                "result": 17,
-                "phenomenonTime": "2024-10-31T20:14:04"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.7737767,
-                    24.7374885
                 ]
             }
         },
