@@ -292,6 +292,24 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "經濟部水利署",
+                "stationID": "86fd965f-0cee-43db-99ad-d1c258193c9a",
+                "stationName": "20241031084500",
+                "unitOfMeasurement": "cm",
+                "result": null,
+                "phenomenonTime": "2024-10-31T08:45:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.30287170410156,
+                    23.344614028930664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "第九河川分署",
                 "stationID": "9c018b1f-0785-4d6f-a14d-fa6eeaa0c1ee",
                 "stationName": "042024058441273",
@@ -322,6 +340,24 @@
                 "coordinates": [
                     121.37385277111288,
                     23.571023881760468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第九河川分署",
+                "stationID": "399b0744-4a9b-4fbb-8bed-98f32e060c7e",
+                "stationName": "",
+                "unitOfMeasurement": "cm",
+                "result": null,
+                "phenomenonTime": "2024-10-31T10:00:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59012695548095,
+                    23.97266825921527
                 ]
             }
         },
