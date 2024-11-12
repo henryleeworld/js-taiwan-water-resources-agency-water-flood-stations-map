@@ -23,24 +23,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "經濟部水利署",
-                "stationID": "8f524bc1-69fe-47ad-baf7-c9c156ecb886",
-                "stationName": "042024058444720",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-10-31T13:03:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.76877,
-                    24.718793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "經濟部水利署",
                 "stationID": "a2c701a8-24f9-4589-81f3-dddb3c1f439d",
                 "stationName": "利澤西路27巷",
                 "unitOfMeasurement": "cm",
@@ -167,24 +149,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第一河川分署",
-                "stationID": "8bf00a05-995b-4155-a00d-94e849e6a0d2",
-                "stationName": "042024058457452",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-11-01T00:40:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.797252,
-                    24.656407
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第一河川分署",
                 "stationID": "f8abae24-357c-4e87-9132-67919b269580",
                 "stationName": "162024058457818",
                 "unitOfMeasurement": "cm",
@@ -214,42 +178,6 @@
                 "coordinates": [
                     120.497,
                     24.109
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "4c8aa0b3-8603-4aaf-9a0d-9e7abac1487f",
-                "stationName": "寶部路涵洞",
-                "unitOfMeasurement": "cm",
-                "result": 12,
-                "phenomenonTime": "2024-11-01T01:28:03"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.5566947,
-                    24.1008777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "8a82dda8-894d-4479-b563-214126fa5d72",
-                "stationName": "和平路",
-                "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-11-01T02:40:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.6036,
-                    23.8692
                 ]
             }
         },
