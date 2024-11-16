@@ -8,7 +8,7 @@
                 "stationID": "fab6c9a5-083c-491e-96bb-9a26b7095ac8",
                 "stationName": "大興路",
                 "unitOfMeasurement": "cm",
-                "result": 42,
+                "result": 75,
                 "phenomenonTime": "2024-11-12T10:36:04"
             },
             "geometry": {
@@ -16,6 +16,60 @@
                 "coordinates": [
                     121.781565,
                     24.690399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "8d961447-2e48-4471-8c10-51ebaec38d8b",
+                "stationName": "",
+                "unitOfMeasurement": "cm",
+                "result": 15,
+                "phenomenonTime": "2024-11-12T11:30:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75589545384076,
+                    24.684226762895364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "61827a6d-328c-4a84-b2f4-e5e0e10bd7f0",
+                "stationName": "泉興巷涵洞（原71改點）",
+                "unitOfMeasurement": "cm",
+                "result": 24,
+                "phenomenonTime": "2024-11-12T14:37:17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.8480999,
+                    24.5947943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第一河川分署",
+                "stationID": "e10bd50c-eda6-4aa9-87f7-056f60edeb46",
+                "stationName": "富農路三段240巷",
+                "unitOfMeasurement": "cm",
+                "result": 11,
+                "phenomenonTime": "2024-11-12T14:45:04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.800379,
+                    24.6697
                 ]
             }
         }
