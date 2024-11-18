@@ -5,24 +5,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第一河川分署",
-                "stationID": "fab6c9a5-083c-491e-96bb-9a26b7095ac8",
-                "stationName": "大興路",
-                "unitOfMeasurement": "cm",
-                "result": 76,
-                "phenomenonTime": "2024-11-12T10:36:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.781565,
-                    24.690399
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第一河川分署",
                 "stationID": "b9a5db68-2d6d-48bd-8b2f-e4058fbc47b6",
                 "stationName": "利澤西路27巷",
                 "unitOfMeasurement": "cm",
@@ -62,7 +44,7 @@
                 "stationID": "f8c3d5ed-b20d-4e3b-b230-50bbd75d483a",
                 "stationName": "三堵三路",
                 "unitOfMeasurement": "cm",
-                "result": 24,
+                "result": 25,
                 "phenomenonTime": "2024-11-12T16:57:04"
             },
             "geometry": {
