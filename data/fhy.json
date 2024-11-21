@@ -5,35 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "經濟部水利署",
-                "stationID": "a5a97d72-e68c-4968-a7b1-332801037db6",
-                "stationName": "042024058571742",
+                "stationID": "bf4693d4-4854-4f47-a578-d71d4c5499b5",
+                "stationName": "忠孝路、梓官路口",
                 "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-11-15T13:27:00"
+                "result": 12,
+                "phenomenonTime": "2024-11-15T23:30:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.722336,
-                    22.20501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "6a818c70-c19e-4970-89c9-bf1297e0d570",
-                "stationName": "042024058571945",
-                "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-11-15T14:24:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.7356454,
-                    22.26084921
+                    120.267548,
+                    22.76703
                 ]
             }
         }
