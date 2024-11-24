@@ -5,35 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "經濟部水利署",
-                "stationID": "bf4693d4-4854-4f47-a578-d71d4c5499b5",
-                "stationName": "忠孝路、梓官路口",
+                "stationID": "71390ed5-e1c4-4132-9857-44cbc330dae4",
+                "stationName": "042024058576705",
                 "unitOfMeasurement": "cm",
-                "result": 12,
-                "phenomenonTime": "2024-11-15T23:30:00"
+                "result": 0,
+                "phenomenonTime": "2024-11-16T07:29:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.267548,
-                    22.76703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第六河川分署",
-                "stationID": "f023f675-9103-4e70-97e4-aab665dae5f3",
-                "stationName": "永達路與和平街",
-                "unitOfMeasurement": "cm",
-                "result": 17,
-                "phenomenonTime": "2024-11-16T02:19:04"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.222306,
-                    22.815972
+                    120.300584,
+                    22.618848
                 ]
             }
         }
