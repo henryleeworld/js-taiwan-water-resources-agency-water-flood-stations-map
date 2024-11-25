@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "經濟部水利署",
-                "stationID": "71390ed5-e1c4-4132-9857-44cbc330dae4",
-                "stationName": "042024058576705",
+                "authority": "第六河川分署",
+                "stationID": "b43da6ff-fe18-41db-92e5-49d4e245bbbf",
+                "stationName": "后平路佛德街交口",
                 "unitOfMeasurement": "cm",
-                "result": 0,
-                "phenomenonTime": "2024-11-16T07:29:00"
+                "result": 11,
+                "phenomenonTime": "2024-11-21T11:00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.300584,
-                    22.618848
+                    120.32003,
+                    22.57401
                 ]
             }
         }
