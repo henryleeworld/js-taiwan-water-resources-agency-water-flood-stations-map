@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第六河川分署",
-                "stationID": "b43da6ff-fe18-41db-92e5-49d4e245bbbf",
-                "stationName": "后平路佛德街交口",
+                "authority": "第二河川分署",
+                "stationID": "30238666-ff7b-4d35-82a6-ee9c593b6b08",
+                "stationName": "花園街地下道",
                 "unitOfMeasurement": "cm",
-                "result": 11,
-                "phenomenonTime": "2024-11-21T11:00:00"
+                "result": 10,
+                "phenomenonTime": "2025-01-27T03:16:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.32003,
-                    22.57401
+                    120.976555,
+                    24.8038713
                 ]
             }
         }
