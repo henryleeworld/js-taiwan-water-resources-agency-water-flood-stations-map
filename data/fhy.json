@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第二河川分署",
-                "stationID": "30238666-ff7b-4d35-82a6-ee9c593b6b08",
-                "stationName": "花園街地下道",
+                "authority": "第五河川分署",
+                "stationID": "1fd00f21-1aba-4032-8159-07d9b66e1ebe",
+                "stationName": "斗南東仁里川和食品(108P024)",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-01-27T03:16:04"
+                "phenomenonTime": "2025-02-07T11:58:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.976555,
-                    24.8038713
+                    120.483919,
+                    23.674873
                 ]
             }
         }
