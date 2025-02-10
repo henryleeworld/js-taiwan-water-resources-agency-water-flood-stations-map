@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第五河川分署",
-                "stationID": "1fd00f21-1aba-4032-8159-07d9b66e1ebe",
-                "stationName": "斗南東仁里川和食品(108P024)",
+                "stationID": "ee16b1a1-a337-40d0-b951-a4d8aafc96d6",
+                "stationName": "魚寮保安宮三山國王(108Q057)",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-02-07T11:58:00"
+                "phenomenonTime": "2025-02-08T14:36:12"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.483919,
-                    23.674873
+                    120.3552863,
+                    23.4816672
                 ]
             }
         }
