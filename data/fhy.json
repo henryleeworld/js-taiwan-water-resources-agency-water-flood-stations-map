@@ -5,24 +5,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第五河川分署",
-                "stationID": "7388cb7f-ea93-46a9-8321-50fa8f5474a6",
-                "stationName": "海瀛村過港社區(CYC131)",
-                "unitOfMeasurement": "cm",
-                "result": 10,
-                "phenomenonTime": "2025-02-13T07:19:33"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.3636571,
-                    23.5830918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第五河川分署",
                 "stationID": "738e4a60-cfcc-44e1-bcf3-6aa25fb87acf",
                 "stationName": "掌潭村掌潭(107Q010)",
                 "unitOfMeasurement": "cm",
