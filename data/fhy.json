@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第五河川分署",
-                "stationID": "738e4a60-cfcc-44e1-bcf3-6aa25fb87acf",
-                "stationName": "掌潭村掌潭(107Q010)",
+                "authority": "第六河川分署",
+                "stationID": "6bae1236-252f-4fac-9d19-309b39b7babd",
+                "stationName": "歡喜鎮大樓",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-02-13T07:20:31"
+                "phenomenonTime": "2025-02-21T10:29:33"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.173174,
-                    23.418444
+                    120.380067,
+                    22.588451
                 ]
             }
         }
