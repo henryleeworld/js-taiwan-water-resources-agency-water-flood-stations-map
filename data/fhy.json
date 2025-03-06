@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第六河川分署",
-                "stationID": "f080d95c-c98f-436b-a6c1-ed5630fbad04",
-                "stationName": "萊芊寮工業區(編號310)",
+                "authority": "第四河川分署",
+                "stationID": "98468128-d432-413c-a90b-452d3005fb92",
+                "stationName": "仁美市場",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-03-04T18:00:00"
+                "phenomenonTime": "2025-03-06T06:10:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.177158,
-                    23.182804
+                    120.497,
+                    24.109
                 ]
             }
         }
