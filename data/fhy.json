@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第四河川分署",
-                "stationID": "98468128-d432-413c-a90b-452d3005fb92",
-                "stationName": "仁美市場",
+                "authority": "第二河川分署",
+                "stationID": "c7c22f72-4022-4aba-a734-1d3f569cbf88",
+                "stationName": "中華路、自強一路口",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-03-06T06:10:00"
+                "phenomenonTime": "2025-03-13T12:10:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.497,
-                    24.109
+                    121.244558,
+                    24.967303
                 ]
             }
         }
