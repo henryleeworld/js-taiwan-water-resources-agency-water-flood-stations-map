@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "eb1fa745-7718-4316-941f-00ebcc7b233d",
-                "stationName": "坑口宮海風產業道路淹水深度",
+                "authority": "第二河川分署",
+                "stationID": "94f4b6c0-67f9-442b-8826-964465338168",
+                "stationName": "中華路、自強一路口",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-03-13T12:13:04"
+                "phenomenonTime": "2025-03-15T08:05:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.61131,
-                    24.30512
+                    121.244558,
+                    24.967303
                 ]
             }
         }
