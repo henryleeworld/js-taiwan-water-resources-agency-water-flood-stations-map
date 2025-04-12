@@ -4,18 +4,36 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第六河川分署",
-                "stationID": "8d87bfe9-5036-4085-baea-9d4ab478a46c",
-                "stationName": "龍山里活動中心旁電杆(編號246)",
+                "authority": "第二河川分署",
+                "stationID": "45e35d68-e0bc-4a84-b0ee-375ba9a714c7",
+                "stationName": "南平路215號",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-03-31T00:00:00"
+                "phenomenonTime": "2025-04-10T09:45:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.114853,
-                    23.137498
+                    121.205511,
+                    24.920332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第二河川分署",
+                "stationID": "9c3bce52-d4a4-40c0-bb0f-9c8d05b665e8",
+                "stationName": "環中東路實踐路",
+                "unitOfMeasurement": "cm",
+                "result": 10,
+                "phenomenonTime": "2025-04-10T09:50:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.24274,
+                    24.95384
                 ]
             }
         }
