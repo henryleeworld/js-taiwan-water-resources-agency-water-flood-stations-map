@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第二河川分署",
-                "stationID": "f8b4af67-27bb-472f-b382-a39b20ca7d96",
-                "stationName": "富華路一段231巷50弄(感測器距溝底51cm)",
+                "authority": "第三河川分署",
+                "stationID": "e8d67013-d920-468d-a937-e878d2228613",
+                "stationName": "景賢三路2號(原住民主題公園)",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-04-12T21:25:00"
+                "phenomenonTime": "2025-04-12T23:44:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.2586914,
-                    25.0502485
+                    120.715819,
+                    24.167367
                 ]
             }
         }
