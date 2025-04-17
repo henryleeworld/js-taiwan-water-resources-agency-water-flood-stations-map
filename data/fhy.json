@@ -4,72 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第五河川分署",
-                "stationID": "e438716b-0d9b-48db-9c3e-956da18c0730",
-                "stationName": "朴子市佳禾里苦瓜寮",
-                "unitOfMeasurement": "cm",
-                "result": 17,
-                "phenomenonTime": "2025-04-13T00:40:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.25838,
-                    23.44925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第五河川分署",
-                "stationID": "5f0f9cae-435a-4c36-8090-391a0d7901ac",
-                "stationName": "港墘村(CYC108)",
-                "unitOfMeasurement": "cm",
-                "result": 10,
-                "phenomenonTime": "2025-04-13T00:49:25"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.2139071,
-                    23.4604943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第五河川分署",
-                "stationID": "17f02c30-d5f8-40a3-8c63-403f042e3f82",
-                "stationName": "岑海里B站",
+                "authority": "第六河川分署",
+                "stationID": "9b7ed334-4aa3-4020-9267-6b3146964214",
+                "stationName": "十二佃七寶塔旁(編號70)",
                 "unitOfMeasurement": "cm",
                 "result": 11,
-                "phenomenonTime": "2025-04-13T00:50:00"
+                "phenomenonTime": "2025-04-13T02:00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.1547389,
-                    23.3791004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第二河川分署",
-                "stationID": "02964ea5-d61f-4e37-8d00-861847cffa1e",
-                "stationName": "國際路一段960號",
-                "unitOfMeasurement": "cm",
-                "result": 15,
-                "phenomenonTime": "2025-04-13T00:30:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.28618,
-                    24.98371
+                    120.177256,
+                    23.067526
                 ]
             }
         }
