@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第二河川分署",
-                "stationID": "46091005-4623-4783-a4f2-b27de7914207",
-                "stationName": "經國路二段與北新街口",
+                "authority": "第九河川分署",
+                "stationID": "652f4ad2-cbb1-49b3-8a36-eab15f391f80",
+                "stationName": "加灣路175號",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-04-13T02:35:04"
+                "phenomenonTime": "2025-04-23T09:12:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.9552252,
-                    24.8035102
+                    121.60846,
+                    24.08517
                 ]
             }
         }
