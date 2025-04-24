@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第九河川分署",
-                "stationID": "652f4ad2-cbb1-49b3-8a36-eab15f391f80",
-                "stationName": "加灣路175號",
+                "stationID": "8a8c37c1-ea4d-43ab-a8d6-27febaf88c0e",
+                "stationName": "紅葉村-花62鄉道24號",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-04-23T09:12:04"
+                "phenomenonTime": "2025-04-23T11:50:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.60846,
-                    24.08517
+                    121.3434,
+                    23.49503
                 ]
             }
         }
