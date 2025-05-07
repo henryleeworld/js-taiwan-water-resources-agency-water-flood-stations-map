@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第九河川分署",
-                "stationID": "8a8c37c1-ea4d-43ab-a8d6-27febaf88c0e",
-                "stationName": "紅葉村-花62鄉道24號",
+                "stationID": "ad109868-f879-4bf0-8075-ba66d598a137",
+                "stationName": "文化一街(鐵路下涵洞)",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-04-23T11:50:04"
+                "phenomenonTime": "2025-05-07T00:22:31"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.3434,
-                    23.49503
+                    121.583887,
+                    23.968704
                 ]
             }
         }
