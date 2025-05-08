@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第九河川分署",
-                "stationID": "ad109868-f879-4bf0-8075-ba66d598a137",
-                "stationName": "文化一街(鐵路下涵洞)",
+                "authority": "第三河川分署",
+                "stationID": "814a9a84-9b3f-49a4-9193-e9b956594b8b",
+                "stationName": "坑口宮海風產業道路淹水深度",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-05-07T00:22:31"
+                "phenomenonTime": "2025-05-07T07:12:04"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.583887,
-                    23.968704
+                    120.61131,
+                    24.30512
                 ]
             }
         }
