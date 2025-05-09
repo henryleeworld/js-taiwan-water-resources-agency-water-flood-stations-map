@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "814a9a84-9b3f-49a4-9193-e9b956594b8b",
-                "stationName": "坑口宮海風產業道路淹水深度",
+                "authority": "第五河川分署",
+                "stationID": "c5fc07fa-6873-46a1-9a01-675ff1737e54",
+                "stationName": "土庫大荖里舊虎尾溪(108P020)",
                 "unitOfMeasurement": "cm",
                 "result": 10,
-                "phenomenonTime": "2025-05-07T07:12:04"
+                "phenomenonTime": "2025-05-07T15:08:05"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.61131,
-                    24.30512
+                    120.3712,
+                    23.679408
                 ]
             }
         }
