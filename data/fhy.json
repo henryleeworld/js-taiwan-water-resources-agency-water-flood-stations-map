@@ -5,24 +5,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第二河川分署",
-                "stationID": "d7a8729b-3d55-40c7-9f90-6fb656b999c3",
-                "stationName": "中正路二段139號",
-                "unitOfMeasurement": "cm",
-                "result": 10,
-                "phenomenonTime": "2025-05-10T09:15:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.19663,
-                    24.97545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第二河川分署",
                 "stationID": "05537db4-4fd2-45d0-8033-50e99b63e985",
                 "stationName": "南平路215號",
                 "unitOfMeasurement": "cm",
