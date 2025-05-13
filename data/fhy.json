@@ -4,6 +4,24 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "第五河川分署",
+                "stationID": "2e94178f-6794-453d-8aec-dbe6a08d60f3",
+                "stationName": null,
+                "unitOfMeasurement": "cm",
+                "result": 5,
+                "phenomenonTime": "2025-05-10T09:59:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.472409996301657,
+                    120.26196526929404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "第十河川分署",
                 "stationID": "3d632da2-ce79-4faa-a501-acde251d3501",
                 "stationName": "堵南1-1?車行地下道",
@@ -16,24 +34,6 @@
                 "coordinates": [
                     121.68447,
                     25.08038
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第二河川分署",
-                "stationID": "05537db4-4fd2-45d0-8033-50e99b63e985",
-                "stationName": "南平路215號",
-                "unitOfMeasurement": "cm",
-                "result": 10,
-                "phenomenonTime": "2025-05-10T09:15:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.205511,
-                    24.920332
                 ]
             }
         }
