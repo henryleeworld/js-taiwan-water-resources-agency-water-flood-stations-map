@@ -4,18 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第五河川分署",
-                "stationID": "2e94178f-6794-453d-8aec-dbe6a08d60f3",
-                "stationName": null,
+                "authority": "第六河川分署",
+                "stationID": "4a772309-1f3b-40f6-b007-397db6182365",
+                "stationName": "十二佃七寶塔旁(編號70)",
                 "unitOfMeasurement": "cm",
-                "result": 5,
-                "phenomenonTime": "2025-05-10T09:59:00"
+                "result": 10,
+                "phenomenonTime": "2025-05-10T15:15:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.26196526929404,
-                    23.472409996301657
+                    120.177256,
+                    23.067526
                 ]
             }
         }
