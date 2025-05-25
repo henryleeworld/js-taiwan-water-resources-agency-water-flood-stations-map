@@ -5,24 +5,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第二河川分署",
-                "stationID": "aa51a683-c36c-492b-a0c7-99b4b5785c09",
-                "stationName": "東大機車地下道",
-                "unitOfMeasurement": "cm",
-                "result": 18,
-                "phenomenonTime": "2025-05-24T10:40:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.9757289,
-                    24.8031607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第二河川分署",
                 "stationID": "5f35be4a-3724-4b3a-bd6d-62f428d4a487",
                 "stationName": "文化二路138號",
                 "unitOfMeasurement": "cm",
