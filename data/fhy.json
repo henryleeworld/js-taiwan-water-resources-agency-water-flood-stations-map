@@ -5,24 +5,6 @@
             "type": "Feature",
             "properties": {
                 "authority": "第三河川分署",
-                "stationID": "9ae03d3c-fbc5-4259-9729-cc406f7e9ba6",
-                "stationName": "豐勢路二段210號",
-                "unitOfMeasurement": "cm",
-                "result": 27,
-                "phenomenonTime": "2025-05-24T11:54:00"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.740233,
-                    24.26258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第三河川分署",
                 "stationID": "06c2f2cb-6dec-43fd-a9ad-22b22ddca827",
                 "stationName": "雁門路與錦上街口淹水深度",
                 "unitOfMeasurement": "cm",
