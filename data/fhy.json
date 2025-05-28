@@ -4,36 +4,36 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第三河川分署",
-                "stationID": "06c2f2cb-6dec-43fd-a9ad-22b22ddca827",
-                "stationName": "雁門路與錦上街口淹水深度",
+                "authority": "第二河川分署",
+                "stationID": "f55537d0-9a6d-457f-b136-122c9d3d51c3",
+                "stationName": null,
                 "unitOfMeasurement": "cm",
-                "result": 14,
-                "phenomenonTime": "2025-05-24T11:54:00"
+                "result": 5,
+                "phenomenonTime": "2025-05-24T12:00:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.62592,
-                    24.35459
+                    120.963992,
+                    24.801791
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "authority": "第二河川分署",
-                "stationID": "0702a076-7e8f-4a4f-8060-ac957fba4dad",
-                "stationName": "文化二路138號",
+                "authority": "第三河川分署",
+                "stationID": "de1ca4cb-69ea-4fad-bdf4-558f13de7e64",
+                "stationName": "中96線華豐五街72號前岔路口淹水深度",
                 "unitOfMeasurement": "cm",
-                "result": 20,
-                "phenomenonTime": "2025-05-24T11:55:00"
+                "result": 13,
+                "phenomenonTime": "2025-05-24T12:13:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.370358,
-                    25.053535
+                    120.80483,
+                    24.21939
                 ]
             }
         }
