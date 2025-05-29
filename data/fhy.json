@@ -23,6 +23,24 @@
             "type": "Feature",
             "properties": {
                 "authority": "第三河川分署",
+                "stationID": "9ae03d3c-fbc5-4259-9729-cc406f7e9ba6",
+                "stationName": "豐勢路二段210號",
+                "unitOfMeasurement": "cm",
+                "result": 27,
+                "phenomenonTime": "2025-05-24T11:54:00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.740233,
+                    24.26258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第三河川分署",
                 "stationID": "de1ca4cb-69ea-4fad-bdf4-558f13de7e64",
                 "stationName": "中96線華豐五街72號前岔路口淹水深度",
                 "unitOfMeasurement": "cm",
