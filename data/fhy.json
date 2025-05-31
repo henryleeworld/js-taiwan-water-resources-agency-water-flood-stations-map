@@ -5,17 +5,17 @@
             "type": "Feature",
             "properties": {
                 "authority": "第二河川分署",
-                "stationID": "f55537d0-9a6d-457f-b136-122c9d3d51c3",
-                "stationName": null,
+                "stationID": "d55bde78-9639-4b47-9e2d-c0d023b8a137",
+                "stationName": "文化二路138號",
                 "unitOfMeasurement": "cm",
-                "result": 5,
-                "phenomenonTime": "2025-05-24T12:00:00"
+                "result": 21,
+                "phenomenonTime": "2025-05-29T13:55:00"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.963992,
-                    24.801791
+                    121.370358,
+                    25.053535
                 ]
             }
         }
