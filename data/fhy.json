@@ -4,36 +4,18 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第五河川分署",
-                "stationID": "219d5402-fe04-4e98-aba6-ec7d4417b2c4",
-                "stationName": "楊賢村_楊和牧場",
+                "authority": "第八河川分署",
+                "stationID": "3127ff53-dc35-4066-bb31-758ea6a5b523",
+                "stationName": "18",
                 "unitOfMeasurement": "cm",
-                "result": 71.65168,
-                "phenomenonTime": "2025-06-03T08:51:21"
+                "result": null,
+                "phenomenonTime": "2025-06-04T10:30:06"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.401968,
-                    23.8108094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "第五河川分署",
-                "stationID": "45d0e4ea-cb59-4a38-9b20-0ca8e330a738",
-                "stationName": "長南村_和平街",
-                "unitOfMeasurement": "cm",
-                "result": 168.65751,
-                "phenomenonTime": "2025-06-03T08:55:02"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.309701,
-                    23.654995
+                    121.51150044040746,
+                    22.080683609160154
                 ]
             }
         }
