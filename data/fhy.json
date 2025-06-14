@@ -4,12 +4,48 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "第九河川分署",
-                "stationID": "1b857f14-90f8-4215-a0c2-fe04df8eefdb",
-                "stationName": "33",
+                "authority": "第六河川分署",
+                "stationID": "12878105-00d4-4ce3-8ba5-9115eca3473e",
+                "stationName": "42",
                 "unitOfMeasurement": "cm",
                 "result": null,
-                "phenomenonTime": "2025-06-08T20:35:46"
+                "phenomenonTime": "2025-06-10T17:08:34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.321348,
+                    22.649398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第三河川分署",
+                "stationID": "bf5a51d9-95da-4cf2-9022-b8fdf3fb4669",
+                "stationName": "43",
+                "unitOfMeasurement": "cm",
+                "result": null,
+                "phenomenonTime": "2025-06-10T17:16:25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643807,
+                    24.171051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "第二河川分署",
+                "stationID": "83ee54e0-47b6-40da-8d93-761fb6b44848",
+                "stationName": "44",
+                "unitOfMeasurement": "cm",
+                "result": null,
+                "phenomenonTime": "2025-06-10T17:16:58"
             },
             "geometry": {
                 "type": "Point",
