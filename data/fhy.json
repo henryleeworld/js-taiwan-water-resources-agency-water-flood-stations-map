@@ -4,6 +4,58 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-414",
+                "stationID": "2a8ed768-a9ff-4622-bc7f-128ef835fa4e",
+                "stationName": "布袋鎮樹林里",
+                "address": "縣道161與170交會口",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 3,
+                "phenomenonTime": "2025-07-03T11:41:26+08:00",
+                "transferTime": "2025-07-03T11:45:29+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10010",
+                "townCode": "1001003",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.21691,
+                    23.41688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-406",
+                "stationID": "eb749ea6-43bb-48fc-a937-cd07a5839342",
+                "stationName": "達生街與民族路口",
+                "address": "達生街與民族路口",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 0.003,
+                "phenomenonTime": "2025-07-03T09:05:09+08:00",
+                "transferTime": "2025-07-03T09:15:50+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10004",
+                "townCode": "1000405",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.045734,
+                    24.903357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-415",
                 "stationID": "4189824a-daa4-491d-95db-7fd93c149f4e",
                 "stationName": "下營區-南58線頂角橋旁(編號93)",
@@ -36,9 +88,9 @@
                 "address": "福興東路",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.027,
-                "phenomenonTime": "2025-07-02T11:35:10+08:00",
-                "transferTime": "2025-07-02T11:45:45+08:00",
+                "result": 0.012,
+                "phenomenonTime": "2025-07-03T09:05:10+08:00",
+                "transferTime": "2025-07-03T09:15:50+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -56,6 +108,32 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-415",
+                "stationID": "a0a2c00e-45b6-4ef4-8e3a-e1f7b6e14112",
+                "stationName": "七股區-三股農會供銷部(編號282)",
+                "address": "七股區三股農會供銷部",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 0.1,
+                "phenomenonTime": "2025-07-03T11:00:00+08:00",
+                "transferTime": "2025-07-03T11:15:56+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "67",
+                "townCode": "6701500",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.114814,
+                    23.098769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-406",
                 "stationID": "a52384e5-714c-4bfc-a084-6a5dc2a46ef1",
                 "stationName": "光復路與工業四路口",
@@ -63,8 +141,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.03,
-                "phenomenonTime": "2025-07-02T11:35:10+08:00",
-                "transferTime": "2025-07-02T11:45:49+08:00",
+                "phenomenonTime": "2025-07-03T09:05:10+08:00",
+                "transferTime": "2025-07-03T09:15:49+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -88,9 +166,9 @@
                 "address": "賓朗路163號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.08,
-                "phenomenonTime": "2025-07-02T11:39:00+08:00",
-                "transferTime": "2025-07-02T11:45:51+08:00",
+                "result": 0.15,
+                "phenomenonTime": "2025-07-03T11:39:00+08:00",
+                "transferTime": "2025-07-03T11:46:01+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
