@@ -4,52 +4,26 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-414",
-                "stationID": "2a8ed768-a9ff-4622-bc7f-128ef835fa4e",
-                "stationName": "布袋鎮樹林里",
-                "address": "縣道161與170交會口",
+                "authority": "Operator-7",
+                "stationID": "a612b0be-205d-4d8a-b756-db5c8b25f809",
+                "stationName": "恆春鎮_湖內路",
+                "address": "屏162鄉道3前",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-07-04T11:44:21+08:00",
-                "transferTime": "2025-07-04T11:45:41+08:00",
+                "result": 3.038144,
+                "phenomenonTime": "2025-07-05T11:51:03+08:00",
+                "transferTime": "2025-07-05T11:55:33+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001003",
+                "cityCode": "10013",
+                "townCode": "1001304",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.21691,
-                    23.41688
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-5",
-                "stationID": "482eacc5-ccff-49ae-abea-0768dfa54411",
-                "stationName": "108Q026六腳正義村",
-                "address": "正義村",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 13.4,
-                "phenomenonTime": "2025-07-04T10:32:00+08:00",
-                "transferTime": "2025-07-04T11:25:43+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001008",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.253654,
-                    23.4810236
+                    120.74743,
+                    21.99188
                 ]
             }
         },
@@ -88,9 +62,9 @@
                 "address": "福興東路",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.021,
-                "phenomenonTime": "2025-07-04T11:35:09+08:00",
-                "transferTime": "2025-07-04T11:46:14+08:00",
+                "result": 0.018,
+                "phenomenonTime": "2025-07-05T11:50:08+08:00",
+                "transferTime": "2025-07-05T11:55:47+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -115,8 +89,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.1,
-                "phenomenonTime": "2025-07-04T11:00:00+08:00",
-                "transferTime": "2025-07-04T11:05:49+08:00",
+                "phenomenonTime": "2025-07-05T11:00:00+08:00",
+                "transferTime": "2025-07-05T11:05:45+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -141,8 +115,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.03,
-                "phenomenonTime": "2025-07-04T11:35:09+08:00",
-                "transferTime": "2025-07-04T11:46:14+08:00",
+                "phenomenonTime": "2025-07-05T11:50:08+08:00",
+                "transferTime": "2025-07-05T11:55:50+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -166,9 +140,9 @@
                 "address": "賓朗路163號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.23,
-                "phenomenonTime": "2025-07-04T11:39:00+08:00",
-                "transferTime": "2025-07-04T11:46:15+08:00",
+                "result": 0.15,
+                "phenomenonTime": "2025-07-05T11:49:00+08:00",
+                "transferTime": "2025-07-05T11:55:51+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
