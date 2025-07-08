@@ -4,26 +4,104 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-7",
-                "stationID": "a612b0be-205d-4d8a-b756-db5c8b25f809",
-                "stationName": "恆春鎮_湖內路",
-                "address": "屏162鄉道3前",
+                "authority": "Operator-417",
+                "stationID": "f9ef5e70-ab0b-4955-ba72-6deaf20e8597",
+                "stationName": "海光鋼鐵廠前北上機車道",
+                "address": "海光鋼鐵廠前北上機車道",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3.038144,
-                "phenomenonTime": "2025-07-05T11:51:03+08:00",
-                "transferTime": "2025-07-05T11:55:33+08:00",
+                "result": 3,
+                "phenomenonTime": "2025-07-06T11:50:00+08:00",
+                "transferTime": "2025-07-06T11:55:18+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
-                "cityCode": "10013",
-                "townCode": "1001304",
+                "cityCode": "64",
+                "townCode": "6401100",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.74743,
-                    21.99188
+                    120.35887,
+                    22.55901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-412",
+                "stationID": "fa80ab95-1a81-4286-80ae-bd8388289061",
+                "stationName": "義民里_義民路",
+                "address": "義民里_北港橋頭",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 1.0661602,
+                "phenomenonTime": "2025-07-06T11:50:41+08:00",
+                "transferTime": "2025-07-06T11:55:33+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10009",
+                "townCode": "1000906",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302195,
+                    23.566666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-422",
+                "stationID": "7787f37e-fe27-43c0-852a-f943503efea3",
+                "stationName": "日光橋-路面淹水",
+                "address": "連航路150號",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 1,
+                "phenomenonTime": "2025-07-06T11:50:00+08:00",
+                "transferTime": "2025-07-06T11:55:34+08:00",
+                "toBeConfirm": false,
+                "isCulvert": false,
+                "cityCode": "10014",
+                "townCode": "1001401",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.1239,
+                    22.7736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-406",
+                "stationID": "eb749ea6-43bb-48fc-a937-cd07a5839342",
+                "stationName": "達生街與民族路口",
+                "address": "達生街與民族路口",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 0.006,
+                "phenomenonTime": "2025-07-06T00:50:11+08:00",
+                "transferTime": "2025-07-06T00:56:03+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10004",
+                "townCode": "1000405",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.045734,
+                    24.903357
                 ]
             }
         },
@@ -62,9 +140,9 @@
                 "address": "福興東路",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.018,
-                "phenomenonTime": "2025-07-05T11:50:08+08:00",
-                "transferTime": "2025-07-05T11:55:47+08:00",
+                "result": 0.015,
+                "phenomenonTime": "2025-07-06T00:50:11+08:00",
+                "transferTime": "2025-07-06T00:55:59+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -89,8 +167,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.1,
-                "phenomenonTime": "2025-07-05T11:00:00+08:00",
-                "transferTime": "2025-07-05T11:05:45+08:00",
+                "phenomenonTime": "2025-07-06T11:00:00+08:00",
+                "transferTime": "2025-07-06T11:05:44+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -114,9 +192,9 @@
                 "address": "光復路與工業四路口",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.03,
-                "phenomenonTime": "2025-07-05T11:50:08+08:00",
-                "transferTime": "2025-07-05T11:55:50+08:00",
+                "result": 0.018,
+                "phenomenonTime": "2025-07-06T00:50:11+08:00",
+                "transferTime": "2025-07-06T00:56:02+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -140,10 +218,10 @@
                 "address": "賓朗路163號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.15,
-                "phenomenonTime": "2025-07-05T11:49:00+08:00",
-                "transferTime": "2025-07-05T11:55:51+08:00",
-                "toBeConfirm": true,
+                "result": 0.84,
+                "phenomenonTime": "2025-07-06T11:39:00+08:00",
+                "transferTime": "2025-07-06T11:46:07+08:00",
+                "toBeConfirm": false,
                 "isCulvert": false,
                 "cityCode": "10014",
                 "townCode": "1001404",
