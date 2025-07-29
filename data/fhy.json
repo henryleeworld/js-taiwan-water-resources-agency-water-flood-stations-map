@@ -5,14 +5,40 @@
             "type": "Feature",
             "properties": {
                 "authority": "Operator-415",
+                "stationID": "5f240cfd-8522-499e-8106-87db04d248d7",
+                "stationName": "麻豆區-麻豆養護中心前(編號207)",
+                "address": "私立麻豆養護中心",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 4.3,
+                "phenomenonTime": "2025-07-27T11:27:03+08:00",
+                "transferTime": "2025-07-27T11:35:37+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "67",
+                "townCode": "6700700",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.245207,
+                    23.14352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-415",
                 "stationID": "484b5806-9073-4c4b-91cc-480b8891933d",
                 "stationName": "鹽水區-三和里竹圍仔(編號231)",
                 "address": "南7線急水溪堤防內",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 999.9,
-                "phenomenonTime": "2025-07-26T11:09:13+08:00",
-                "transferTime": "2025-07-26T11:15:53+08:00",
+                "phenomenonTime": "2025-07-27T11:12:13+08:00",
+                "transferTime": "2025-07-27T11:15:37+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -24,6 +50,32 @@
                 "coordinates": [
                     120.2002878,
                     23.2619832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-408",
+                "stationID": "704c8eaf-79a6-44d5-8eea-865b7daf8a1b",
+                "stationName": "潭子區新興路一段31巷31號",
+                "address": "新興路一段31巷31號",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 4.3,
+                "phenomenonTime": "2025-07-27T11:44:00+08:00",
+                "transferTime": "2025-07-27T11:55:57+08:00",
+                "toBeConfirm": false,
+                "isCulvert": false,
+                "cityCode": "66",
+                "townCode": "6601700",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.70905,
+                    24.198804
                 ]
             }
         },
@@ -108,6 +160,32 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-411",
+                "stationID": "aafe5a9c-c5f3-4e7b-a8c2-a62623f41c65",
+                "stationName": "里仁村1",
+                "address": "高鐵北一路198號",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 9.8,
+                "phenomenonTime": "2025-07-27T11:44:00+08:00",
+                "transferTime": "2025-07-27T11:45:57+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10007",
+                "townCode": "1000717",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5811276,
+                    23.8824922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-422",
                 "stationID": "3e21c8a6-1771-4255-be8e-e34295674141",
                 "stationName": "十股排水-路面淹水",
@@ -115,8 +193,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.15,
-                "phenomenonTime": "2025-07-26T11:49:00+08:00",
-                "transferTime": "2025-07-26T11:55:57+08:00",
+                "phenomenonTime": "2025-07-27T11:49:00+08:00",
+                "transferTime": "2025-07-27T11:55:56+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
