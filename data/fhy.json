@@ -10,9 +10,9 @@
                 "address": "新吉里活動中心",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 5.3,
-                "phenomenonTime": "2025-08-05T08:58:03+08:00",
-                "transferTime": "2025-08-05T09:05:25+08:00",
+                "result": 6.4,
+                "phenomenonTime": "2025-08-06T10:31:03+08:00",
+                "transferTime": "2025-08-06T11:05:25+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -36,9 +36,9 @@
                 "address": "私立麻豆養護中心",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 4,
-                "phenomenonTime": "2025-08-05T11:42:03+08:00",
-                "transferTime": "2025-08-05T11:45:41+08:00",
+                "result": 11.5,
+                "phenomenonTime": "2025-08-06T11:40:03+08:00",
+                "transferTime": "2025-08-06T11:45:33+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -50,58 +50,6 @@
                 "coordinates": [
                     120.245207,
                     23.14352
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
-                "stationID": "b890a951-b82f-41a2-82d0-7259e232520f",
-                "stationName": "水上鄉水上村(地下道)",
-                "address": "水上村230號旁",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 15,
-                "phenomenonTime": "2025-08-05T11:43:21+08:00",
-                "transferTime": "2025-08-05T11:45:41+08:00",
-                "toBeConfirm": false,
-                "isCulvert": true,
-                "cityCode": "10010",
-                "townCode": "1001012",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.39439,
-                    23.42665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
-                "stationID": "cb660959-71e7-416d-95f5-1958ab1e7a54",
-                "stationName": "CYC103東石鄉塭港村塭港社區",
-                "address": "塭港村塭港社區",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-08-04T22:21:59+08:00",
-                "transferTime": "2025-08-04T22:25:20+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001009",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.145547,
-                    23.470195
                 ]
             }
         },
@@ -134,15 +82,41 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-415",
+                "stationID": "484b5806-9073-4c4b-91cc-480b8891933d",
+                "stationName": "鹽水區-三和里竹圍仔(編號231)",
+                "address": "南7線急水溪堤防內",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 999.9,
+                "phenomenonTime": "2025-08-06T11:03:13+08:00",
+                "transferTime": "2025-08-06T11:15:42+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "67",
+                "townCode": "6700200",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.2002878,
+                    23.2619832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-406",
                 "stationID": "eb749ea6-43bb-48fc-a937-cd07a5839342",
                 "stationName": "達生街與民族路口",
                 "address": "達生街與民族路口",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.003,
-                "phenomenonTime": "2025-08-05T11:30:25+08:00",
-                "transferTime": "2025-08-05T11:36:03+08:00",
+                "result": 0.006,
+                "phenomenonTime": "2025-08-06T06:47:43+08:00",
+                "transferTime": "2025-08-06T06:55:56+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -193,8 +167,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.006,
-                "phenomenonTime": "2025-08-05T11:30:26+08:00",
-                "transferTime": "2025-08-05T11:35:59+08:00",
+                "phenomenonTime": "2025-08-06T06:47:43+08:00",
+                "transferTime": "2025-08-06T06:55:58+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -219,8 +193,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 2,
-                "phenomenonTime": "2025-08-05T11:35:00+08:00",
-                "transferTime": "2025-08-05T11:45:52+08:00",
+                "phenomenonTime": "2025-08-06T11:35:00+08:00",
+                "transferTime": "2025-08-06T11:45:53+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "68",
@@ -238,15 +212,41 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-406",
+                "stationID": "a52384e5-714c-4bfc-a084-6a5dc2a46ef1",
+                "stationName": "光復路與工業四路口",
+                "address": "光復路與工業四路口",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 0.006,
+                "phenomenonTime": "2025-08-06T06:47:44+08:00",
+                "transferTime": "2025-08-06T06:55:58+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10004",
+                "townCode": "1000405",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018357,
+                    24.861289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-422",
                 "stationID": "3e21c8a6-1771-4255-be8e-e34295674141",
                 "stationName": "十股排水-路面淹水",
                 "address": "賓朗路163號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.23,
-                "phenomenonTime": "2025-08-05T11:39:00+08:00",
-                "transferTime": "2025-08-05T11:45:54+08:00",
+                "result": 0.15,
+                "phenomenonTime": "2025-08-06T11:39:00+08:00",
+                "transferTime": "2025-08-06T11:45:56+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
@@ -270,9 +270,9 @@
                 "address": "港口里及港南里交界處(南133及134交叉路口)",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 5.7,
-                "phenomenonTime": "2025-08-05T11:40:03+08:00",
-                "transferTime": "2025-08-05T11:45:54+08:00",
+                "result": 5.9,
+                "phenomenonTime": "2025-08-06T11:39:03+08:00",
+                "transferTime": "2025-08-06T11:45:53+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
