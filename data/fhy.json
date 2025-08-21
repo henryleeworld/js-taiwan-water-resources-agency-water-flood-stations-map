@@ -36,9 +36,9 @@
                 "address": "私立麻豆養護中心",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 5,
-                "phenomenonTime": "2025-08-19T10:35:03+08:00",
-                "transferTime": "2025-08-19T10:45:26+08:00",
+                "result": 5.1,
+                "phenomenonTime": "2025-08-19T11:35:03+08:00",
+                "transferTime": "2025-08-19T11:45:38+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -88,9 +88,9 @@
                 "address": "延慶街與堯山街129巷",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 6.09909296035767,
-                "phenomenonTime": "2025-08-19T10:40:00+08:00",
-                "transferTime": "2025-08-19T10:45:33+08:00",
+                "result": 6.04011118412018,
+                "phenomenonTime": "2025-08-19T11:40:00+08:00",
+                "transferTime": "2025-08-19T11:45:46+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "64",
@@ -102,32 +102,6 @@
                 "coordinates": [
                     120.31533,
                     22.64337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-406",
-                "stationID": "eb749ea6-43bb-48fc-a937-cd07a5839342",
-                "stationName": "達生街與民族路口",
-                "address": "達生街與民族路口",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 0.003,
-                "phenomenonTime": "2025-08-19T10:32:29+08:00",
-                "transferTime": "2025-08-19T10:35:47+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10004",
-                "townCode": "1000405",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.045734,
-                    24.903357
                 ]
             }
         },
@@ -167,8 +141,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.021,
-                "phenomenonTime": "2025-08-19T10:32:29+08:00",
-                "transferTime": "2025-08-19T10:35:44+08:00",
+                "phenomenonTime": "2025-08-19T11:32:35+08:00",
+                "transferTime": "2025-08-19T11:35:53+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -218,9 +192,9 @@
                 "address": "光復路與工業四路口",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.036,
-                "phenomenonTime": "2025-08-19T10:32:29+08:00",
-                "transferTime": "2025-08-19T10:35:47+08:00",
+                "result": 0.021,
+                "phenomenonTime": "2025-08-19T11:32:35+08:00",
+                "transferTime": "2025-08-19T11:35:52+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -245,8 +219,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.15,
-                "phenomenonTime": "2025-08-19T10:39:00+08:00",
-                "transferTime": "2025-08-19T10:45:42+08:00",
+                "phenomenonTime": "2025-08-19T11:39:00+08:00",
+                "transferTime": "2025-08-19T11:45:52+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
