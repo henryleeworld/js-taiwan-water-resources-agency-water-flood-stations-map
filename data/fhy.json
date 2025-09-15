@@ -11,8 +11,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.003,
-                "phenomenonTime": "2025-09-12T11:39:12+08:00",
-                "transferTime": "2025-09-12T11:45:53+08:00",
+                "phenomenonTime": "2025-09-13T11:41:36+08:00",
+                "transferTime": "2025-09-13T11:45:46+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -24,58 +24,6 @@
                 "coordinates": [
                     121.006559,
                     24.833311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-406",
-                "stationID": "dd8acf38-d154-4f9c-89b8-1a1e61b52f90",
-                "stationName": "興隆路一段199號",
-                "address": "興隆路一段199號",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 0.003,
-                "phenomenonTime": "2025-09-12T11:39:12+08:00",
-                "transferTime": "2025-09-12T11:45:52+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10004",
-                "townCode": "1000401",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.000289,
-                    24.824244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
-                "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
-                "stationName": "布袋鎮振寮里後壁寮B站",
-                "address": "振寮里後壁寮2號旁",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-09-12T11:54:22+08:00",
-                "transferTime": "2025-09-12T11:55:59+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001003",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.18217,
-                    23.38423
                 ]
             }
         },
@@ -115,8 +63,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.018,
-                "phenomenonTime": "2025-09-12T11:39:09+08:00",
-                "transferTime": "2025-09-12T11:45:59+08:00",
+                "phenomenonTime": "2025-09-13T11:41:33+08:00",
+                "transferTime": "2025-09-13T11:45:51+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10004",
@@ -134,32 +82,6 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-406",
-                "stationID": "a52384e5-714c-4bfc-a084-6a5dc2a46ef1",
-                "stationName": "光復路與工業四路口",
-                "address": "光復路與工業四路口",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 0.003,
-                "phenomenonTime": "2025-09-12T11:39:09+08:00",
-                "transferTime": "2025-09-12T11:45:59+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10004",
-                "townCode": "1000405",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.018357,
-                    24.861289
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "authority": "Operator-422",
                 "stationID": "3e21c8a6-1771-4255-be8e-e34295674141",
                 "stationName": "十股排水-路面淹水",
@@ -167,8 +89,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.15,
-                "phenomenonTime": "2025-09-12T11:49:00+08:00",
-                "transferTime": "2025-09-12T11:55:51+08:00",
+                "phenomenonTime": "2025-09-13T11:49:00+08:00",
+                "transferTime": "2025-09-13T11:55:48+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
@@ -192,9 +114,9 @@
                 "address": "三角村2",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3.4,
-                "phenomenonTime": "2025-09-12T11:54:02+08:00",
-                "transferTime": "2025-09-12T11:55:51+08:00",
+                "result": 3,
+                "phenomenonTime": "2025-09-13T11:54:02+08:00",
+                "transferTime": "2025-09-13T11:55:48+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -206,6 +128,32 @@
                 "coordinates": [
                     120.343736,
                     23.403968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-414",
+                "stationID": "4e1d899d-67b9-4102-bd1e-f7fe4b3dd96d",
+                "stationName": "CYC204民雄交流道",
+                "address": "民雄交流道",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 3,
+                "phenomenonTime": "2025-09-13T11:54:02+08:00",
+                "transferTime": "2025-09-13T11:55:48+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10010",
+                "townCode": "1001005",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.415942,
+                    23.553344
                 ]
             }
         }
