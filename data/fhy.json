@@ -10,9 +10,9 @@
                 "address": "江山里活動中心前",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 5.3,
-                "phenomenonTime": "2025-09-28T12:03:33+08:00",
-                "transferTime": "2025-09-28T12:05:09+08:00",
+                "result": 4.6,
+                "phenomenonTime": "2025-09-29T12:01:31+08:00",
+                "transferTime": "2025-09-29T12:05:10+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -36,9 +36,9 @@
                 "address": "喜樹路252巷5號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3.1,
-                "phenomenonTime": "2025-09-28T11:07:05+08:00",
-                "transferTime": "2025-09-28T11:15:23+08:00",
+                "result": 3,
+                "phenomenonTime": "2025-09-29T11:07:05+08:00",
+                "transferTime": "2025-09-29T11:15:23+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "67",
@@ -56,41 +56,15 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-406",
-                "stationID": "2ed847e7-b1b6-4f4f-a153-5cacc1a132b0",
-                "stationName": "工研路地下道",
-                "address": "工研路地下道",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 0.6,
-                "phenomenonTime": "2025-09-28T11:57:23+08:00",
-                "transferTime": "2025-09-28T12:05:30+08:00",
-                "toBeConfirm": true,
-                "isCulvert": true,
-                "cityCode": "10004",
-                "townCode": "1000402",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.017721,
-                    24.87112
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "authority": "Operator-414",
                 "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
                 "stationName": "布袋鎮振寮里後壁寮B站",
                 "address": "振寮里後壁寮2號旁",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-09-28T12:02:16+08:00",
-                "transferTime": "2025-09-28T12:05:32+08:00",
+                "result": 3.1,
+                "phenomenonTime": "2025-09-29T12:03:10+08:00",
+                "transferTime": "2025-09-29T12:05:46+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -114,9 +88,9 @@
                 "address": "賓朗路163號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 0.08,
-                "phenomenonTime": "2025-09-28T11:59:00+08:00",
-                "transferTime": "2025-09-28T12:05:39+08:00",
+                "result": 0.23,
+                "phenomenonTime": "2025-09-29T11:59:00+08:00",
+                "transferTime": "2025-09-29T12:05:55+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10014",
@@ -134,41 +108,15 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-421",
-                "stationID": "4d737be9-806b-457e-923d-3862174e992c",
-                "stationName": "花蓮市_中原路地下道",
-                "address": "中原路地下道",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 1.49846077,
-                "phenomenonTime": "2025-09-28T12:01:04+08:00",
-                "transferTime": "2025-09-28T12:05:39+08:00",
-                "toBeConfirm": true,
-                "isCulvert": true,
-                "cityCode": "10015",
-                "townCode": "1001501",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.592714,
-                    23.976367
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "authority": "Operator-414",
                 "stationID": "d5b6dfc2-d2e5-422e-8664-401e67f933d7",
                 "stationName": "CYC176鹿草鄉三角村2",
                 "address": "三角村2",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 2.6,
-                "phenomenonTime": "2025-09-28T12:03:02+08:00",
-                "transferTime": "2025-09-28T12:05:39+08:00",
+                "result": 3.3,
+                "phenomenonTime": "2025-09-29T12:03:02+08:00",
+                "transferTime": "2025-09-29T12:05:55+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -180,6 +128,32 @@
                 "coordinates": [
                     120.343736,
                     23.403968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-414",
+                "stationID": "4e1d899d-67b9-4102-bd1e-f7fe4b3dd96d",
+                "stationName": "CYC204民雄交流道",
+                "address": "民雄交流道",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 3.2,
+                "phenomenonTime": "2025-09-29T12:03:02+08:00",
+                "transferTime": "2025-09-29T12:05:55+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10010",
+                "townCode": "1001005",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.415942,
+                    23.553344
                 ]
             }
         }
