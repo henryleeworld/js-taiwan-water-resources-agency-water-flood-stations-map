@@ -4,41 +4,15 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-417",
-                "stationID": "a628e64a-ba9a-4295-b4e8-d36acbc68880",
-                "stationName": "鳳仁路與澄觀路口(3972500FL0007)",
-                "address": "西向澄觀路轉向北向仁雄路轉角處",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 7.7,
-                "phenomenonTime": "2025-11-04T11:45:01+08:00",
-                "transferTime": "2025-11-04T11:55:28+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "64",
-                "townCode": "6401700",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.353401,
-                    22.686167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "authority": "Operator-4",
                 "stationID": "670b0d50-c262-4bf2-a69e-6c998065c918",
                 "stationName": "田中和平路淹水感知器",
                 "address": "復興里和平路山腳路口",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 13.54,
-                "phenomenonTime": "2025-11-04T11:50:00+08:00",
-                "transferTime": "2025-11-04T11:55:30+08:00",
+                "result": 13.34,
+                "phenomenonTime": "2025-11-05T11:40:00+08:00",
+                "transferTime": "2025-11-05T11:45:38+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10007",
@@ -63,8 +37,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.3,
-                "phenomenonTime": "2025-11-04T11:54:10+08:00",
-                "transferTime": "2025-11-04T11:55:32+08:00",
+                "phenomenonTime": "2025-11-05T11:39:09+08:00",
+                "transferTime": "2025-11-05T11:45:38+08:00",
                 "toBeConfirm": true,
                 "isCulvert": true,
                 "cityCode": "10004",
@@ -89,8 +63,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 3.1,
-                "phenomenonTime": "2025-11-04T11:51:35+08:00",
-                "transferTime": "2025-11-04T11:55:43+08:00",
+                "phenomenonTime": "2025-11-05T11:42:34+08:00",
+                "transferTime": "2025-11-05T11:45:45+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -108,15 +82,41 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-406",
+                "stationID": "b5509a57-3932-473d-955b-ce0861d79ffa",
+                "stationName": "新興路186號",
+                "address": "新興路186號",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 0.3,
+                "phenomenonTime": "2025-11-05T11:39:10+08:00",
+                "transferTime": "2025-11-05T11:45:44+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10004",
+                "townCode": "1000406",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9952,
+                    24.868811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-4",
                 "stationID": "e130ffdc-fac3-46a5-8c3b-d09c7b4e1ca2",
                 "stationName": "員林市昌平街淹水感知器",
                 "address": "昌平街89號",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 13.93,
-                "phenomenonTime": "2025-11-04T11:50:00+08:00",
-                "transferTime": "2025-11-04T11:55:45+08:00",
+                "result": 13.9,
+                "phenomenonTime": "2025-11-05T11:40:00+08:00",
+                "transferTime": "2025-11-05T11:45:50+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10007",
@@ -161,40 +161,14 @@
             "type": "Feature",
             "properties": {
                 "authority": "Operator-414",
-                "stationID": "294f10d9-e8b1-4a92-80ca-4d61d2b58979",
-                "stationName": "CYC200朴子南竹里南勢竹天主堂",
-                "address": "南竹里南勢竹天主堂",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 0.3,
-                "phenomenonTime": "2025-11-04T11:54:02+08:00",
-                "transferTime": "2025-11-04T11:55:45+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001002",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.239047,
-                    23.416324
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
                 "stationID": "70d454b2-307d-4466-b2e2-b801a1b0987d",
                 "stationName": "CYC226太保東勢里東和宮",
                 "address": "東勢里東和宮",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 3,
-                "phenomenonTime": "2025-11-04T11:54:02+08:00",
-                "transferTime": "2025-11-04T11:55:44+08:00",
+                "phenomenonTime": "2025-11-05T11:42:03+08:00",
+                "transferTime": "2025-11-05T11:45:50+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
