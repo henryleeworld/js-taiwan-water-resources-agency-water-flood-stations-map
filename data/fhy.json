@@ -11,8 +11,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.3,
-                "phenomenonTime": "2025-11-21T11:45:08+08:00",
-                "transferTime": "2025-11-21T11:55:45+08:00",
+                "phenomenonTime": "2025-11-22T11:45:09+08:00",
+                "transferTime": "2025-11-22T11:55:32+08:00",
                 "toBeConfirm": true,
                 "isCulvert": true,
                 "cityCode": "10004",
@@ -30,26 +30,26 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-405",
-                "stationID": "74c7234f-fdf1-4166-9da7-60d0055204da",
-                "stationName": "西大地下道",
-                "address": "西大地下道",
+                "authority": "Operator-414",
+                "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
+                "stationName": "布袋鎮振寮里後壁寮B站",
+                "address": "振寮里後壁寮2號旁",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 5.3,
-                "phenomenonTime": "2025-11-21T11:49:00+08:00",
-                "transferTime": "2025-11-21T11:55:59+08:00",
+                "result": 3.1,
+                "phenomenonTime": "2025-11-22T11:52:57+08:00",
+                "transferTime": "2025-11-22T11:55:40+08:00",
                 "toBeConfirm": true,
-                "isCulvert": true,
-                "cityCode": "10018",
-                "townCode": "1001801",
+                "isCulvert": false,
+                "cityCode": "10010",
+                "townCode": "1001003",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.9679736,
-                    24.7990388
+                    120.18217,
+                    23.38423
                 ]
             }
         },
@@ -88,9 +88,9 @@
                 "address": "東勢里東和宮",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 2.6,
-                "phenomenonTime": "2025-11-21T11:54:02+08:00",
-                "transferTime": "2025-11-21T11:55:59+08:00",
+                "result": 3,
+                "phenomenonTime": "2025-11-22T11:54:02+08:00",
+                "transferTime": "2025-11-22T11:55:42+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -102,32 +102,6 @@
                 "coordinates": [
                     120.31037,
                     23.466961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-417",
-                "stationID": "d45783b5-5584-49c2-8491-5d395f068fb8",
-                "stationName": "永安路146號前",
-                "address": "永安路146號前",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 7,
-                "phenomenonTime": "2025-11-21T11:43:00+08:00",
-                "transferTime": "2025-11-21T11:55:59+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "64",
-                "townCode": "6402700",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.221555,
-                    22.817008
                 ]
             }
         }
