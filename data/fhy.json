@@ -11,8 +11,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 0.3,
-                "phenomenonTime": "2025-11-24T11:45:09+08:00",
-                "transferTime": "2025-11-24T11:55:37+08:00",
+                "phenomenonTime": "2025-11-25T11:45:08+08:00",
+                "transferTime": "2025-11-25T11:55:46+08:00",
                 "toBeConfirm": true,
                 "isCulvert": true,
                 "cityCode": "10004",
@@ -31,25 +31,25 @@
             "type": "Feature",
             "properties": {
                 "authority": "Operator-414",
-                "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
-                "stationName": "布袋鎮振寮里後壁寮B站",
-                "address": "振寮里後壁寮2號旁",
+                "stationID": "38533eb3-a7e3-4548-93bb-66ca2cf5884f",
+                "stationName": "大林鎮平林里(地下道)",
+                "address": "中正路324巷60號附近",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3.1,
-                "phenomenonTime": "2025-11-24T11:53:27+08:00",
-                "transferTime": "2025-11-24T11:55:52+08:00",
+                "result": 3,
+                "phenomenonTime": "2025-11-25T11:53:58+08:00",
+                "transferTime": "2025-11-25T11:55:39+08:00",
                 "toBeConfirm": true,
-                "isCulvert": false,
+                "isCulvert": true,
                 "cityCode": "10010",
-                "townCode": "1001003",
+                "townCode": "1001004",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.18217,
-                    23.38423
+                    120.45264,
+                    23.59834
                 ]
             }
         },
@@ -83,40 +83,14 @@
             "type": "Feature",
             "properties": {
                 "authority": "Operator-414",
-                "stationID": "b9b0ef99-f7a4-4867-b10a-9a73c8231e23",
-                "stationName": "CYC178梅山鄉梅東村萬應廟",
-                "address": "梅東村萬應廟",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 0.3,
-                "phenomenonTime": "2025-11-24T11:54:02+08:00",
-                "transferTime": "2025-11-24T11:55:53+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001015",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.410241,
-                    23.452243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
                 "stationID": "70d454b2-307d-4466-b2e2-b801a1b0987d",
                 "stationName": "CYC226太保東勢里東和宮",
                 "address": "東勢里東和宮",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 1.1,
-                "phenomenonTime": "2025-11-24T11:54:02+08:00",
-                "transferTime": "2025-11-24T11:55:53+08:00",
+                "result": 3,
+                "phenomenonTime": "2025-11-25T11:54:02+08:00",
+                "transferTime": "2025-11-25T11:55:55+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
