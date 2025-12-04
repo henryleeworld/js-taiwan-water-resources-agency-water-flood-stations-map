@@ -5,92 +5,14 @@
             "type": "Feature",
             "properties": {
                 "authority": "Operator-414",
-                "stationID": "b14e81bb-03fc-4a1b-b93c-481150ed01b7",
-                "stationName": "六腳鄉潭墘村",
-                "address": "潭墘村34-1號旁",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-12-01T11:52:01+08:00",
-                "transferTime": "2025-12-01T11:55:27+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001008",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.27771,
-                    23.50609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-8",
-                "stationID": "fba44c13-b77b-4df0-9e48-d4728333c81e",
-                "stationName": "中興路四段763巷",
-                "address": "中興路四段763巷",
-                "sensorType": "雷達波",
-                "unitOfMeasurement": "cm",
-                "result": 17.0671463,
-                "phenomenonTime": "2025-12-01T11:40:42+08:00",
-                "transferTime": "2025-12-01T11:45:27+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10014",
-                "townCode": "1001401",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.0866,
-                    22.773193
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-405",
-                "stationID": "3ffc3983-49fb-47f9-963c-acc8d4e3c44d",
-                "stationName": "關新東路與關東路口",
-                "address": "關新東路與關東路口",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 4.8,
-                "phenomenonTime": "2025-12-01T11:51:00+08:00",
-                "transferTime": "2025-12-01T11:55:36+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10018",
-                "townCode": "1001801",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020885,
-                    24.786923
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
                 "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
                 "stationName": "布袋鎮振寮里後壁寮B站",
                 "address": "振寮里後壁寮2號旁",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-12-01T11:52:33+08:00",
-                "transferTime": "2025-12-01T11:55:42+08:00",
+                "result": 3.1,
+                "phenomenonTime": "2025-12-02T11:53:05+08:00",
+                "transferTime": "2025-12-02T11:56:02+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -140,9 +62,9 @@
                 "address": "東勢里東和宮",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2025-12-01T11:54:02+08:00",
-                "transferTime": "2025-12-01T11:55:49+08:00",
+                "result": 3.1,
+                "phenomenonTime": "2025-12-02T03:45:02+08:00",
+                "transferTime": "2025-12-02T03:56:13+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
