@@ -5,25 +5,25 @@
             "type": "Feature",
             "properties": {
                 "authority": "Operator-414",
-                "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
-                "stationName": "布袋鎮振寮里後壁寮B站",
-                "address": "振寮里後壁寮2號旁",
+                "stationID": "60707a3e-9884-435e-8a32-4a8b57dbc2fa",
+                "stationName": "東石鄉網寮村鹽田寮",
+                "address": "鹽田聖金壇旁",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 3.1,
-                "phenomenonTime": "2025-12-02T11:53:05+08:00",
-                "transferTime": "2025-12-02T11:56:02+08:00",
+                "phenomenonTime": "2025-12-03T11:53:34+08:00",
+                "transferTime": "2025-12-03T11:55:58+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
-                "townCode": "1001003",
+                "townCode": "1001009",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.18217,
-                    23.38423
+                    120.1664,
+                    23.43618
                 ]
             }
         },
