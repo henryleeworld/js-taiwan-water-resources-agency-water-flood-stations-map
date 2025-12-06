@@ -4,26 +4,52 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-414",
-                "stationID": "60707a3e-9884-435e-8a32-4a8b57dbc2fa",
-                "stationName": "東石鄉網寮村鹽田寮",
-                "address": "鹽田聖金壇旁",
+                "authority": "Operator-406",
+                "stationID": "2ed847e7-b1b6-4f4f-a153-5cacc1a132b0",
+                "stationName": "工研路地下道",
+                "address": "工研路地下道",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3.1,
-                "phenomenonTime": "2025-12-03T11:53:34+08:00",
-                "transferTime": "2025-12-03T11:55:58+08:00",
+                "result": 0.3,
+                "phenomenonTime": "2025-12-04T11:30:08+08:00",
+                "transferTime": "2025-12-04T11:35:37+08:00",
                 "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001009",
+                "isCulvert": true,
+                "cityCode": "10004",
+                "townCode": "1000402",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.1664,
-                    23.43618
+                    121.017721,
+                    24.87112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-414",
+                "stationID": "06eec8b7-512e-4c82-950d-95712d0f3519",
+                "stationName": "布袋鎮振寮里後壁寮B站",
+                "address": "振寮里後壁寮2號旁",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 3.1,
+                "phenomenonTime": "2025-12-04T11:41:58+08:00",
+                "transferTime": "2025-12-04T11:45:50+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10010",
+                "townCode": "1001003",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.18217,
+                    23.38423
                 ]
             }
         },
@@ -50,32 +76,6 @@
                 "coordinates": [
                     121.1014,
                     22.796
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
-                "stationID": "70d454b2-307d-4466-b2e2-b801a1b0987d",
-                "stationName": "CYC226太保東勢里東和宮",
-                "address": "東勢里東和宮",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 3.1,
-                "phenomenonTime": "2025-12-02T03:45:02+08:00",
-                "transferTime": "2025-12-02T03:56:13+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001001",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31037,
-                    23.466961
                 ]
             }
         }
