@@ -4,26 +4,52 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-415",
-                "stationID": "0388a2b0-efdd-41e5-b4c9-ded81c5ec478",
-                "stationName": "新市區-富強路與新港社大道口(編號219)",
-                "address": "富強路(近新港社大道)",
+                "authority": "Operator-414",
+                "stationID": "76da05a1-0780-4827-aabd-5c54393e2302",
+                "stationName": "東石鄉東崙村中洲",
+                "address": "中洲社區活動中心旁",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 4,
-                "phenomenonTime": "2026-11-18T11:23:03+08:00",
-                "transferTime": "2026-11-18T11:35:37+08:00",
+                "result": 3,
+                "phenomenonTime": "2026-11-19T10:15:31+08:00",
+                "transferTime": "2026-11-19T10:25:15+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
-                "cityCode": "67",
-                "townCode": "6702000",
+                "cityCode": "10010",
+                "townCode": "1001009",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.28171,
-                    23.064808
+                    120.20207,
+                    23.43647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "authority": "Operator-405",
+                "stationID": "267066f1-b295-43b1-8634-f933be19bfbb",
+                "stationName": "延平路二段811巷口",
+                "address": "延平路二段811巷口",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 9.3,
+                "phenomenonTime": "2026-11-19T11:39:00+08:00",
+                "transferTime": "2026-11-19T11:45:39+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10018",
+                "townCode": "1001803",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.9228173,
+                    24.808595
                 ]
             }
         },
@@ -37,8 +63,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 3,
-                "phenomenonTime": "2026-11-18T11:54:10+08:00",
-                "transferTime": "2026-11-18T11:55:39+08:00",
+                "phenomenonTime": "2026-11-19T11:43:45+08:00",
+                "transferTime": "2026-11-19T11:45:45+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -62,9 +88,9 @@
                 "address": "永靈宮附近",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3.2,
-                "phenomenonTime": "2026-11-18T11:53:00+08:00",
-                "transferTime": "2026-11-18T11:55:48+08:00",
+                "result": 3,
+                "phenomenonTime": "2026-11-19T11:42:35+08:00",
+                "transferTime": "2026-11-19T11:45:48+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10010",
@@ -82,6 +108,32 @@
         {
             "type": "Feature",
             "properties": {
+                "authority": "Operator-414",
+                "stationID": "f5d3dc0d-e075-4e58-b5d6-2993f17c4e20",
+                "stationName": "CYC120太保市安仁里橋子頭社區",
+                "address": "安仁里橋子頭社區",
+                "sensorType": "壓力式",
+                "unitOfMeasurement": "cm",
+                "result": 3,
+                "phenomenonTime": "2026-11-19T11:42:35+08:00",
+                "transferTime": "2026-11-19T11:45:53+08:00",
+                "toBeConfirm": true,
+                "isCulvert": false,
+                "cityCode": "10010",
+                "townCode": "1001001",
+                "dataSource": "IoT-Sensor"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315505,
+                    23.449703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "authority": "Operator-5",
                 "stationID": "6ae8e148-70b4-4261-9f42-ff28002285fd",
                 "stationName": "108I003育人路733巷",
@@ -89,8 +141,8 @@
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
                 "result": 1.6,
-                "phenomenonTime": "2026-11-18T10:02:40+08:00",
-                "transferTime": "2026-11-18T10:05:41+08:00",
+                "phenomenonTime": "2026-11-19T11:01:05+08:00",
+                "transferTime": "2026-11-19T11:05:43+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
                 "cityCode": "10020",
@@ -108,52 +160,26 @@
         {
             "type": "Feature",
             "properties": {
-                "authority": "Operator-414",
-                "stationID": "a89f97e3-374e-48ca-9843-dbf7da636019",
-                "stationName": "CYC156義竹北華村南安溪寮",
-                "address": "北華村北華",
+                "authority": "Operator-420",
+                "stationID": "13cad4f1-f5d9-4ce2-9c57-fa6b518385fa",
+                "stationName": "冬山鄉-武淵路71號附近",
+                "address": "武淵路71號附近",
                 "sensorType": "壓力式",
                 "unitOfMeasurement": "cm",
-                "result": 3,
-                "phenomenonTime": "2026-11-18T11:54:02+08:00",
-                "transferTime": "2026-11-18T11:55:47+08:00",
+                "result": 4,
+                "phenomenonTime": "2026-11-19T11:42:00+08:00",
+                "transferTime": "2026-11-19T11:45:50+08:00",
                 "toBeConfirm": true,
                 "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001010",
+                "cityCode": "10002",
+                "townCode": "1000208",
                 "dataSource": "IoT-Sensor"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.19554,
-                    23.34224
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "authority": "Operator-414",
-                "stationID": "b9b0ef99-f7a4-4867-b10a-9a73c8231e23",
-                "stationName": "CYC178梅山鄉梅東村萬應廟",
-                "address": "梅東村萬應廟",
-                "sensorType": "壓力式",
-                "unitOfMeasurement": "cm",
-                "result": 3.3,
-                "phenomenonTime": "2026-11-18T11:54:02+08:00",
-                "transferTime": "2026-11-18T11:55:47+08:00",
-                "toBeConfirm": true,
-                "isCulvert": false,
-                "cityCode": "10010",
-                "townCode": "1001015",
-                "dataSource": "IoT-Sensor"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.410241,
-                    23.452243
+                    121.8001237,
+                    24.6612857
                 ]
             }
         },
